@@ -1,0 +1,4963 @@
+debes aprender html ahora ahora quieres
+
+ser ingeniero de software y trabajar
+
+remoto te piden html quieres trabajar
+
+con rubion rails o python y trabajar en
+
+el backend te piden html quieres venir a
+
+trabajar a Nueva Zelanda adivina te
+
+piden html Aunque no te guste Muchos
+
+trabajos de ingeniero de software
+
+desarrollador o programador te van a
+
+pedir que sepas html y qué mejor
+
+oportunidad que aprenderlo ahora en este
+
+video y conmigo acá vamos a ver una
+
+profunda Introducción a html con el cual
+
+vas a poder empezar a crear los
+
+esqueletos de tus aplicaciones web acá
+
+vas a obtener los conocimientos
+
+necesarios para ser productivo en html
+
+inmediatamente y así formar tus bases
+
+para que puedas continuar aprendiendo
+
+las otras tecnologías que te van a pedir
+
+en tu futuro trabajo y por supuesto
+
+vamos a aprovechar este espacio también
+
+para agradecer a nuestros patrocinadores
+
+ya que gracias a ellos nosotros podemos
+
+tener este contenido completamente
+
+gratis aquí en internet para que ustedes
+
+lo puedan ver si quieres aprender a
+
+programar desde cero O si quieres
+
+continuar desarrollando tus idades
+
+puedes revisar mis cursos de
+
+programación que se encuentran en la
+
+descripción de este video o en mi web en
+
+estos yo te enseño a programar en python
+
+javascript react react native y diversas
+
+herramientas además de cursos Por
+
+supuesto que están por venir y si
+
+quieres obtener un precio preferencial
+
+utiliza los links que te voy a dejar acá
+
+abajo o también puedes acceder a ellos
+
+utilizando los links que se encuentran
+
+en mi sitio web y Cómo olvidar al
+
+infaltable de Hola beits hola bits es
+
+música pensada en programadores
+
+estudiantes o quien quiera que necesite
+
+concentrarse con muchísimas horas de
+
+contenido para poder escuchar música y
+
+no aburrirte Hola bits te va a acompañar
+
+y te va a ayudar durante tu aprendizaje
+
+y si eres creador de contenido puedes
+
+utilizar toda la música de hits
+
+completamente gratis para tus videos de
+
+YouTube podcast y también streams en
+
+Twitch y sin perder más el tiempo Vamos
+
+a aprender html ahora veamos rápidamente
+
+La teoría para que nosotros podamos
+
+salir rápido después de ver estos slides
+
+y podamos lanzarnos a escribir código
+
+html inmediatamente primero Qué es html
+
+html significa hypertext markup Language
+
+y este es el lenguaje estándar para
+
+crear páginas web hoy en día si tú
+
+quieres crear una página web o quieres
+
+crear una aplicación web vas a necesitar
+
+utilizar html o algo que compile
+
+finalmente en html html describe la
+
+estructura de las páginas web esto es el
+
+esqueleto que nos va a indicar cómo
+
+tiene que construirse en nuestra página
+
+web Le va a dar un orden y dependiendo
+
+de ese orden es cómo va a mostrar Y qué
+
+va a Mostrar le indica al explorador qué
+
+Y cómo mostrarlo y consiste de etiquetas
+
+estas etiquetas nosotros las vamos a ver
+
+en un segundo y las etiquetas nos
+
+indican párrafos títulos vínculos links
+
+secciones cabecera cuerpo etcétera
+
+etcétera y las vamos a ver ahora cómo
+
+funciona html html funciona como una
+
+estructura de árbol donde nosotros vamos
+
+a tener una raíz que en este caso
+
+vendría siendo nuestro nodo principal y
+
+ese nodo después nosotros vamos a
+
+empezar a agregar más nodos a él vamos a
+
+poder agregar un cuerpo vamos a poder
+
+también agregar una cabeza y en estas
+
+Nosotros le vamos a ir indicando
+
+contenido fíjense que nosotros vamos a
+
+tener una única raíz y esa única raíz
+
+después nosotros vamos a empezar a
+
+agregar cada vez más y más nodos y cada
+
+uno de estos nodos puede tener a su vez
+
+más hijos como es el caso de este nodo
+
+que nosotros estamos viendo acá tenemos
+
+el nodo padre el nodo padre tiene un
+
+hijo directo este hijo tiene después dos
+
+hijos y este hijo finalmente tiene bueno
+
+todos estos hijos y nietos que nosotros
+
+estamos viendo acá en la pantalla y acá
+
+a la derecha nosotros tenemos un ejemplo
+
+de cómo se va a ver código html una vez
+
+que nosotros ya lo hayamos implementado
+
+como pueden ver nosotros tenemos una
+
+etiqueta de html después de eso nosotros
+
+tenemos Body tenemos un h1 un p section
+
+3ps Y así sucesivamente no es necesario
+
+que nosotros sepamos Cuál es la
+
+funcionalidad de cada una de estas
+
+etiquetas lo importante es que nosotros
+
+aprendamos a ver ahora cómo queda
+
+finalmente estructurado nuestro código
+
+de html y finalmente nosotros estamos
+
+viendo que es una especie de árbol donde
+
+nuestra raíz es la etiqueta de html y
+
+dentro de esta se empiezan a agregar más
+
+y más etiquetas ahora Qué es una
+
+etiqueta en html nosotros ya lo vimos en
+
+el slide pasado Pero ahora vamos a
+
+entrar un poco más en detalle una
+
+etiqueta consta de tres partes primero
+
+la apertura de la etiqueta donde
+
+nosotros tenemos que utilizar el símbolo
+
+de mayor el el símbolo de menor y dentro
+
+de esto el nombre de la etiqueta después
+
+de eso viene el contenido de nuestra
+
+etiqueta donde nosotros tenemos que
+
+colocar el contenido dentro de la
+
+etiqueta y finalmente tenemos el cierre
+
+de nuestra etiqueta que es exactamente
+
+lo mismo que la apertura pero fíjense
+
+que en este caso esta contiene un Slash
+
+hacia adelante Por ende cuando nosotros
+
+vayamos a abrir una etiqueta lo que
+
+haremos será colocar símbolo mayor el
+
+nombre de la etiqueta y después el
+
+símbolo de mayor a menor después de eso
+
+nosotros podemos inmediatamente cerrar
+
+nuestra etiqueta que va a ser lo mismo
+
+pero la diferencia va a ser este Slash
+
+hacia delante y dentro de esta etiqueta
+
+nosotros vamos a colocar el contenido
+
+que puede ser texto o pueden ser aún más
+
+etiquetas y cómo se estructura
+
+finalmente código html se estructura de
+
+una manera bastante similar a como
+
+nosotros estamos viendo en esta slide
+
+aquí nosotros tenemos nuestra etiqueta
+
+de html También tenemos una etiqueta de
+
+Head y Head nos va a servir para que
+
+nosotros podamos agregar más
+
+descripciones que No necesariamente el
+
+usuario va a ver pero que nos van a
+
+servir para poder incluir otro tipo de
+
+código a nuestra página web Y también
+
+vamos a tener la etiqueta de Body en la
+
+cual nosotros vamos a colocar todo el
+
+contenido que va a ser visible para el
+
+usuario dentro de esta etiqueta de Body
+
+aquí nosotros colocamos como ejemplo
+
+colocar un heading que se llama h1 en
+
+este caso aquí nosotros tenemos un
+
+heading de h1 que significa título
+
+después de eso nosotros tenemos una
+
+etiqueta de p que significa que es un
+
+párrafo luego Lu de eso tenemos la
+
+etiqueta de cierre de Body y la etiqueta
+
+de cierre de html cuando nosotros
+
+escribimos etiquetas en html nos vamos a
+
+dar cuenta que se empiezan a formar
+
+especies de bloques como los estamos
+
+viendo acá tenemos el bloque de Head el
+
+cual contiene otro bloque adentro el
+
+cual es el de title debajo nosotros
+
+tenemos un bloque de Body el cual
+
+contiene también a su vez dos bloques
+
+tiene este bloque de h1 y también
+
+contiene este bloque de P y lo que vamos
+
+a hacer al finalizar este curso luego de
+
+que ya vimos absolutamente todas las
+
+etiquetas que a nosotros nos interesa
+
+vamos a construir un pequeño blog donde
+
+vamos a tener aquí grande el nombre del
+
+Blog vamos a tener un título de cada uno
+
+de los artículos que vamos a escribir
+
+vamos a ver una descripción también va a
+
+contener una imagen y después de esta
+
+imagen nosotros vamos a agregar el texto
+
+el cual corresponde al artículo de
+
+nuestro blog que nosotros hemos escrito
+
+a continuación para que podamos trabajar
+
+y empezar a escribir código vamos a
+
+necesitar un editor de texto podrías
+
+querer escribir el código en el bloc de
+
+notas Pero te vas a perder muchas
+
+funcionalidades como resaltado de
+
+sintaxis autocompletado y también un
+
+gestor de archivos bastante elegante por
+
+lo que vamos a descargar ahora mismo un
+
+editor de texto que nos va a ayudar
+
+mientras estamos escribiendo código
+
+vamos a verlo Vamos a ingresar aquí a
+
+nuestro explorador y vamos a buscar vs
+
+code a mí me gusta utilizar bim pero en
+
+este curso para que no nos marios porque
+
+hay hay personas de repente que se
+
+confunden cuando yo estoy escribiendo
+
+código en bim voy a utilizar también vs
+
+code Sí lo sé pero no importa vamos a
+
+irnos aquí a este link que aparece acá
+
+aquí donde dice visual Studio code y
+
+podemos pinchar directamente en
+
+downloads o podemos ir directamente a la
+
+web yo voy a ir directamente a la web y
+
+aquí nos aparece un link donde vamos a
+
+poder descargar visual Studio code yo ya
+
+lo tengo descargado ya lo tengo
+
+instalado Así que no voy a pasar por
+
+este paso pero ustedes en este caso
+
+tienen que pincharlo tienen que
+
+descargarlo Tienen que darle click al
+
+ejecutable siguiente siguiente siguiente
+
+y ya saben cómo se instalan las cosas en
+
+Windows o en el caso que tengas Mac
+
+también en Mac aquí da lo mismo si
+
+nosotros estamos trabajando en Windows o
+
+si estamos trabajando en Mac porque el
+
+código que nosotros vamos a escribir va
+
+a ser independiente de la plataforma en
+
+la cual nosotros estemos trabajando Lo
+
+que sí es importante es que tenemos que
+
+tener un editor de texto para poder
+
+trabajar y una vez que nosotros lo
+
+descargamos vamos a cerrar esta pestaña
+
+y vamos a abrirlo yo lo voy a
+
+buscar y aquí me aparece como visual
+
+Studio code también lo puedo buscar acá
+
+pero lo importante es que cuando yo
+
+escriba kbsc me va a aparecer esto
+
+ustedes lo pueden buscar en sus
+
+aplicaciones en mi PC donde quiera que
+
+esté donde quiera que ustedes lo hayan
+
+instalado y sencillamente pinchan en él
+
+a ustedes Acá les pueden aparecer
+
+múltiples pestañas o múltiples ventanas
+
+Con distinta información la verdad es
+
+que eso va a ir cambiando dependiendo de
+
+la versión que nosotros tengamos
+
+instalada Lo importante es que nosotros
+
+tenemos que ver algo muy similar a esto
+
+como podemos ver aquí yo ya he creado un
+
+archivo voy a llegar y lo voy a eliminar
+
+porque no nos interesa hacer eso lo que
+
+sí vamos a hacer ahora es utilizando
+
+estas pestañas que nosotros tenemos acá
+
+arriba Vamos a pinchar aquí donde dice
+
+Open si lo tienen en español les va a
+
+decir abrir pinchan acá y lo importante
+
+es que ustedes Acá tienen que ir a
+
+buscar una carpeta que ustedes hayan
+
+creado donde vamos a guardar todo el
+
+código con el cual vamos a estar
+
+trabajando yo me he creado una carpeta
+
+que se llama workspaces si ustedes no la
+
+tienen creada Sencillamente pinchan acá
+
+en nu en Nueva carpeta o le dan clic
+
+derecho y le colocan crear carpeta o se
+
+van a la terminal y crean la carpeta da
+
+lo mismo como ustedes crean en la
+
+carpeta Lo importante es que creen una
+
+carpeta que contenga el código que
+
+ustedes van a estar editando por favor
+
+no lo dejen en el escritorio No dejen
+
+también sus archivos repartidos por
+
+cualquier parte sern ordenados creense
+
+una carpeta y dentro de esta carpeta
+
+creen otra carpeta la cual va a contener
+
+el código de su proyecto en este caso yo
+
+lo voy a hacer acá donde dice intro html
+
+y voy a pinchar aquí donde dice Open
+
+Pero puede decir también abrir pincho
+
+acá y nos debiese Mostrar algo muy
+
+similar a esto que finalmente es nuestro
+
+editor de texto y a la izquierda
+
+nosotros no tenemos absolutamente nada y
+
+para que podamos continuar trabajando
+
+con html vamos a ver que aquí arriba
+
+aparecen cuatro botones los cuales son
+
+uno es para poder crear un nuevo archivo
+
+otro es para poder crear una carpeta
+
+otro es para poder refrescar la
+
+visualización de archivos carpetas que
+
+nosotros tengamos acá y finalmente acá
+
+tenemos para colapsar todas las carpetas
+
+que nosotros tengamos abiertas en este
+
+caso nosotros tenemos que utilizar esta
+
+que dice nuevo archivo vamos a pinchar y
+
+nos va a aparecer aquí para que le demos
+
+un nombre a nuestro archivo en este caso
+
+le vamos a dar el nombre de
+
+index.html.com punto html le indica a
+
+nuestro editor de texto y posibles
+
+servidores que vayan a utilizar este
+
+archivo y entregárselo a clientes que el
+
+archivo es de tipo html y el nombre de
+
+Index que nosotros vemos acá es una
+
+convención o un estándar que se utiliza
+
+para poder crear la primera página web
+
+de html a la cual nosotros vamos a
+
+ingresar esto quiere decir que si tú vas
+
+a ingresar a una página web cualquiera
+
+sea esta el archivo que te van a servir
+
+a ti inmediatamente el primero que te
+
+llega es este de
+
+nos venimos acá donde se encuentra
+
+nuestro editor de texto vamos a pinchar
+
+para asegurarnos que estamos editando
+
+acá y vamos a escribir lo siguiente un
+
+signo de exclamación y luego vamos a
+
+presionar la tecla de Tab Oh pero qué
+
+fue lo que pasó Qué clase de brujería y
+
+magia negra es esta visual Studio code
+
+utiliza m también para que podamos crear
+
+más código Sencillamente escribiendo
+
+solo un par de caracteres en este caso
+
+está asociado el símbolo de exclamación
+
+cuando nosotros nos encontramos dentro
+
+de un archivo html a colocar todo este
+
+código para que así nosotros no tengamos
+
+que redactar todo este código que la
+
+verdad es que es bastante estándar
+
+cuando estamos escribiendo código html y
+
+vamos a ver qué es lo que hace todo este
+
+código lo primero sí que vamos a hacer
+
+es eliminar estas etiquetas de meta ya
+
+que por ahora no nos interesa y vamos a
+
+ver las otras etiquetas qué es lo que
+
+hacen la primera etiqueta esta que
+
+nosotros estamos viendo acá que dice doc
+
+type le indica al explorador web que el
+
+contenido que nosotros estamos
+
+escribiendo en este documento es de tip
+
+tipo
+
+html5 si nosotros por alguna razón
+
+decidiéramos eliminar esto el explorador
+
+web va a entrar a modo quirks que se
+
+escribe algo más o menos así quirks Mode
+
+quirks Mode es cuando nuestro explorador
+
+se coloca en modo de los años 90 donde
+
+todo el código que nosotros vamos a
+
+escribir el explorador web va a tratar
+
+de interpretarlo como código Antiguo y
+
+cuando ocurra esto también van a empezar
+
+a aparecer errores que existían en los
+
+años 90 Cuando no se estaba
+
+interpretando código html por lo que la
+
+etiqueta doct type es sumamente
+
+importante para que el código que
+
+nosotros escribamos sea interpretado de
+
+la manera Correcta Por nuestro
+
+explorador web la siguiente etiqueta que
+
+nosotros tenemos acá es la de html y
+
+html es la etiqueta raíz de
+
+absolutamente todo documento html todo
+
+documento html que nosotros escribamos
+
+va a contener siempre esta etiqueta de
+
+html esto que se encuentra acá nosotros
+
+lo vamos a eliminar porque por ahora no
+
+nos nos interesa verlo la siguiente
+
+etiqueta que nosotros tenemos es la
+
+etiqueta de Head y dentro de la etiqueta
+
+de Head nosotros Podemos agregar
+
+características que va a tener nuestra
+
+página web que No necesariamente van a
+
+ser visibles por el usuario en este caso
+
+nosotros tenemos únicamente la etiqueta
+
+title la cual le indica Cuál va a ser el
+
+título de nuestra página web ya la vamos
+
+a ver cuando abramos nuestro archivo de
+
+etiqueta de Body y dentro de la etiqueta
+
+de Body es donde se va a incluir todo el
+
+contenido de nuestra web aquí yo lo que
+
+voy a hacer es guardar y ahora lo que
+
+tengo que hacer es ejecutar mi página
+
+web para poder empezar a visualizarla
+
+dentro del explorador para eso yo lo que
+
+voy a hacer es que me voy a venir acá a
+
+mi archivo justamente acá y le voy a dar
+
+clic derecho y aquí debería aparecer una
+
+opción para poder mostrarlo dentro de mi
+
+explorador de archivos o en este caso
+
+revealing finder yo lo voy a pinchar y
+
+lo que va a hacer es que me va a abrir
+
+la ruta De dónde se encuentra mi archivo
+
+y aquí lo que tengo que hacer es
+
+Sencillamente darle doble clic para
+
+poder abrirlo aquí lo que voy a hacer es
+
+tomar esto que se encuentra acá y lo voy
+
+a arrastrar vamos a agrandar la página
+
+web y aquí podemos ver que me aparece el
+
+contenido de nuestra web que es el texto
+
+que yo agregué dentro de la etiqueta de
+
+Body pero también aparece justamente
+
+arriba un texto que dice document y
+
+document es el título de nuestra web
+
+vamos a cambiar este texto por algo un
+
+poco más descriptivo para eso yo me voy
+
+a devolver aquí aquí a visual Studio
+
+code y voy a cambiar esto que dice
+
+document por mi primera web voy a
+
+guardar y voy a devolverme aquí a mi
+
+explorador voy a pinchar acá en el botón
+
+de refrescar y fíjense en lo que va a
+
+ocurrir en el texto que aparece acá
+
+arriba refresco y vemos como ahora este
+
+ha cambiado por mi primera web la
+
+etiqueta de title es sumamente
+
+importante Ya que le va a mostrar a los
+
+usuarios de los motores de búsqueda ya
+
+sea como Google como Yahoo Cuál es el
+
+título del elemento que él está buscando
+
+él va a empezar a escribir cosas Como
+
+por ejemplo Chanchito feliz y si
+
+nosotros tenemos una web cuyo título
+
+dice Chanchito feliz al usuario le va a
+
+empezar a aparecer esto como resultado
+
+por lo que tenemos que colocar siempre
+
+una etiqueta de título la cual sea
+
+relevante al contenido que nosotros
+
+estemos mostrando en ese momento Ahora
+
+nos vamos a devolver a nuestro editor de
+
+texto y lo que voy a hacer es dividir el
+
+contenido de mi pantalla voy a dejar a
+
+la izquierda mi editor de texto y a la
+
+derecha voy a dejar el explorador
+
+web voy achicar esto un poco más y voy a
+
+agrandar un poco más el editor ahora
+
+vamos a empezar a trabajar con nuestras
+
+primeras etiquetas voy a eliminar este
+
+texto que dice acá de contenido de
+
+nuestra web y dentro de las etiquetas de
+
+Body voy a escribir lo siguiente fíjense
+
+esto es sumamente importante que siempre
+
+que nosotros colocamos un contenido
+
+dentro de estas etiquetas cuando
+
+nosotros abrimos una etiqueta y luego la
+
+cerramos siempre el contenido que
+
+nosotros coloquemos tiene que estar
+
+entado e entado quiere decir que tiene
+
+que tener una separación con respecto a
+
+la etiqueta anterior en este caso mi
+
+etiqueta anterior donde donde yo estoy
+
+colocando el contenido es Body por lo
+
+que yo tengo que entregarle una entación
+
+que en este caso es la de cuatro
+
+espacios hay algunas personas que
+
+prefieren utilizar el Tab aquí da
+
+Exactamente lo mismo eso es netamente
+
+algo de preferencia utilicen cuantro
+
+espacios o utilicen Tab Lo importante es
+
+que siempre utilicen la entación y aquí
+
+adentro nosotros vamos a colocar nuestra
+
+primera etiqueta de heading y es la
+
+etiqueta de h1 ahora fíjense en la magia
+
+negra que va a ocurrir cuando yo coloque
+
+el símbolo de mayor a menor y lo que Hi
+
+BS code fue autocompletar la etiqueta
+
+agregando inmediatamente su etiqueta de
+
+cierre de esta manera no es necesario
+
+que nosotros escribamos la etiqueta de
+
+apertura y también la etiqueta de cierre
+
+eso lo va a hacer BS code por nosotros y
+
+aquí adentro nosotros vamos a colocar el
+
+siguiente texto mi primer heading vamos
+
+a guardar y ahora nos vamos a venir acá
+
+nuevamente a nuestro explorador y vamos
+
+a pinchar acá donde dice refrescar como
+
+podemos ver ahora lo que pasó es de que
+
+el texto aparece bastante bastante más
+
+grande la etiqueta de heeding se utiliza
+
+para poder entregarle un título al
+
+contenido que viene justamente después
+
+de él los motores de búsqueda utilizan
+
+estas etiquetas para poder indexar el
+
+contenido dentro de los mismos motores
+
+de búsqueda por lo que es muy importante
+
+que nosotros utilicemos las etiquetas de
+
+h1 no para mostrar un texto más grande
+
+sino que para indicar solamente títulos
+
+dentro de nuestra página web y ya que
+
+hemos pasado por la parte de la etiqueta
+
+de heading vamos a ver ahora
+
+inmediatamente otras cinco etiquetas que
+
+van a ser algo muy similar a nuestra
+
+etiqueta de h1 para eso yo voy a copiar
+
+esto y voy a pegarlo nuevamente abajo
+
+pero en lugar de colocar h1 voy a
+
+colocar
+
+h2 y tengo que actualizar también la
+
+etiqueta de cierre Ahora yo lo que voy a
+
+hacer es guardar Y en lugar de colocar
+
+el texto de mi primer heading voy a
+
+colocar mi segundo heading y ahora sí
+
+nuevamente guardo me devuelvo aquí a mi
+
+explorador y voy a pinchar aquí en
+
+refrescar como podemos ver ahora también
+
+nos aparece mi segundo heading el cual
+
+también es un texto que también aparece
+
+en negrita y también aparece grande pero
+
+es sustancialmente más pequeño al
+
+heading anterior Esto es para que
+
+nosotros dentro de html podamos Mostrar
+
+títulos y también podamos Mostrar
+
+subtítulos o sub subtítulos a medida que
+
+nosotros vayamos colocando más headings
+
+es muy importante que estos headings
+
+como les dije antes no los utilicemos
+
+para agrandar el texto sino que
+
+solamente lo tenemos que utilizar para
+
+poder indicar cabeceras o subcab ceras
+
+de nuestro contenido vamos a ver ahora
+
+las siguientes etiquetas vamos a ver un
+
+h3 que va a ser mi Tercer heading vamos
+
+a agregar un
+
+h4 que es mi cuarto
+
+heading vamos a agregar un
+
+h5 el cual es mi quinto
+
+heading y vamos a agregar un h6 que va a
+
+decir Chanchito feliz ahora vamos a
+
+guardar y vamos a devolvernos a nuestro
+
+explorador aquí nosotros estamos viendo
+
+que existen seis tipos de heeding los
+
+cuales Nosotros los vamos a utilizar
+
+como habíamos dicho antes solamente para
+
+indicar los títulos subtítulos sub
+
+subtítulos sub sub subtítulos y así
+
+sucesivamente hasta llegar a la etiqueta
+
+de h6 es muy importante que no los
+
+utilicemos para cambiar los estilos de
+
+los textos ya que las etiquetas de
+
+heading son utilizadas por los motores
+
+de búsqueda ahora ustedes se preguntarán
+
+existirá un h7 vamos a verlo vamos a
+
+colocar acá Lala y vamos a refrescar
+
+como podemos ver aquí nosotros tenemos
+
+el texto de Lala pero este sin embargo
+
+no se ha visto Alterado y esto es porque
+
+la etiqueta de h7 no existe Así es que
+
+nosotros la vamos a eliminar y nos vamos
+
+a quedar solamente con las etiquetas de
+
+h1 a h6 Ahora nos preguntaremos ya que
+
+sabemos cómo colocar nuestros títulos
+
+para que estos sean amigables con los
+
+buscadores Dónde tenemos que colocar
+
+Entonces los textos y estos se colocan
+
+en la siguiente etiqueta vamos a
+
+escribir el símbolo de mayor a menor de
+
+menor a mayor p y luego cerramos esa
+
+etiqueta Esta es la etiqueta de párrafo
+
+y dentro de la etiqueta de párrafo
+
+nosotros podemos colocar el texto que
+
+nosotros queramos aquí yo voy a colocar
+
+Chanchito feliz está muy feliz y en el
+
+caso que nosotros queramos tomar este
+
+párrafo pero queramos agregar otro más
+
+que se encuentre separado de este para
+
+que no parezca que el texto está siempre
+
+pegado dentro de lo mismo porque si es
+
+que yo guardo acá y refresco me voy a
+
+dar cuenta que aparece el texto acá pero
+
+si es que yo presiono acá enter y sigo
+
+agregando texto como lalal la guardo y
+
+vuelvo a refrescar el texto de lalalá me
+
+va a aparecer justamente pegado a
+
+Chanchito feliz está muy feliz a veces
+
+yo voy a querer separar estos párrafos
+
+en distintos párrafos la manera correcta
+
+de hacer eso es que nosotros eliminemos
+
+esto dejemos nuestra etiqueta de p acá y
+
+luego agreguemos otra etiqueta de p
+
+donde vamos a indicar acá Chanchito
+
+triste está muy triste ahora vamos a
+
+guardar y vamos a volver a refrescar y
+
+aquí nosotros tenemos ahora Chanchito
+
+feliz está muy feliz y justamente en una
+
+nueva línea tenemos a Chanchito triste
+
+está muy triste de esta manera nosotros
+
+Podemos agregar texto que se encuentre
+
+en distintos párrafos ahora qué
+
+sucedería si yo quisiera además agregar
+
+otro título acá vamos a colocar otro h2
+
+y Aquí vamos a colocar a Chanchito
+
+Felipe y luego de agregar a Chanchito
+
+Felipe Quiero agregar otro párrafo donde
+
+vamos a colocar un poco más de texto
+
+texto un poco más y vamos a guardar
+
+ahora vamos a refrescar y vamos a ver
+
+que tenemos el título de Chanchito
+
+Felipe y también tenemos el texto de
+
+texto un poco más qué es lo que pasa si
+
+es que yo quiero generar la separación
+
+entre mi primer heading y todo este
+
+texto que aparece acá de Chanchito
+
+Felipe para eso nosotros vamos a hacer
+
+uso de otra etiqueta la cual se llama
+
+hr tal cual como está escrito acá y
+
+ahora sí nosotros podemos refrescar y
+
+vamos a ver que va a aparecer una línea
+
+justamente aquí entre medio de los dos
+
+textos y esto nos va a servir para que
+
+nosotros podamos separar el texto o
+
+separar secciones de nuestra aplicación
+
+ahora vamos a continuar con otra
+
+etiqueta que no va a aparecer dentro del
+
+contenido html y esta nos va a servir
+
+para que nosotros podamos dejarnos
+
+mensajes a nosotros mismos o a otros
+
+desarrolladores para que tengan en
+
+consideración cuando ellos vengan a ver
+
+nuestro código y esta es la etiqueta de
+
+comentario la etiqueta de comentario
+
+como pueden ver acá se escribe con el
+
+símbolo de menor seguido de eso viene un
+
+símbolo de exclamación después de eso
+
+vienen dos guiones y después dentro de
+
+estas etiquetas es donde nosotros
+
+tenemos que escribir nuestros
+
+comentarios y la etiqueta de cierre son
+
+dos guiones en conjunto con el símbolo
+
+de mayor a menor aquí lo que vamos a
+
+hacer ahora es empezar a escribir texto
+
+este texto es un comentario y no va
+
+a aparecer en el explorador y fíjense en
+
+algo sumamente importante aquí yo lo que
+
+hice fue Sencillamente presione enter y
+
+seguí escribiendo más texto abajo voy a
+
+chicar esto y coloqué este texto es un
+
+comentario y no va a presion enter y
+
+después de eso aparecer en el explorador
+
+ahora sí me aseguro de haber guardado me
+
+voy a devolver aquí a mi explorador y
+
+voy a refrescar como nos esperábamos no
+
+aparece este texto pero si estamos
+
+utilizando Chrome firefox Safari o
+
+cualquier otro explorador nosotros vamos
+
+a poder dar clic derecho y presionar en
+
+algo que va a decir algo similar a
+
+inspeccionar elementos inspeccionar o
+
+algo similar que cuando nosotros lo
+
+presionemos nos va a abrir esta pequeña
+
+consola Ahora sí es que nosotros la
+
+agrandamos un poco vamos a ver lo
+
+siguiente vamos a ver que aparece todo
+
+el código html que nosotros hemos
+
+escrito y justamente aquí al final
+
+aparece nuestro comentario por lo que
+
+los exploradores web van a poder ver
+
+También los comentarios pero van a
+
+decidir no mostrárselo a los usuarios
+
+qué ocurriría si nosotros tenemos un
+
+párrafo dentro de nuestra etiqueta Deep
+
+que es bastante extenso y nosotros
+
+queremos identificar una parte de él
+
+para eso nosotros vamos a ver una nueva
+
+etiqueta vamos a escribir acá un poco
+
+más de
+
+texto y aquí nosotros podemos ver cómo
+
+hemos agregado bastante más texto ahora
+
+lo que yo quiero hacer es poder
+
+seleccionar mucho más largo y envolverlo
+
+dentro de una etiqueta que eventualmente
+
+yo lo podría utilizar para referenciarlo
+
+más adelante para eso nosotros vamos a
+
+hacer uso de la etiqueta de span y span
+
+nos va a servir para esto mismo para
+
+poder referenciar luego texto que se va
+
+a encontrar dentro de otras etiquetas
+
+como en este caso puede ser la etiqueta
+
+de p Ahora yo lo que voy a hacer Es que
+
+voy a guardar y voy a refrescar mi
+
+explorador y ahora nosotros vemos que
+
+nos aparece este texto es mucho más
+
+largo y es para mostrar la etiqueta de
+
+spam como pueden ver este texto no se
+
+vio alterado por lo que hace una
+
+selección silenciosa de texto o de
+
+elementos html que se puedan encontrar
+
+en nuestra web ahora nosotros vamos a
+
+hacer un un poco de trampa y vamos a ver
+
+solamente un poco pero muy muy muy poco
+
+de css para que podamos ver cuál vendría
+
+siendo la utilidad de esta etiqueta de
+
+spam Porque si nosotros estamos
+
+colocando acá esta etiqueta pero no
+
+estamos viendo un resultado la verdad
+
+Para qué vamos a colocar la etiqueta
+
+entonces así que vamos a hacer un poco
+
+de trampa y vamos a escribir Style igual
+
+comillas dobles y aquí nosotros vamos a
+
+escribir color dos puntos y vamos a
+
+darle un color un Blue Ahora sí vamos a
+
+guardar y vamos a volver a nuestro
+
+explorador y vamos a refrescar ahora
+
+nosotros podemos ver que nuestro texto
+
+de mucho más largo aparece en color azul
+
+de esta manera más adelante cuando
+
+veamos css nosotros vamos a poder
+
+cambiar el texto de color vamos a poder
+
+cambiar también el tamaño las
+
+dimensiones vamos a poder moverlo vamos
+
+a poder hacer lo que nosotros queramos
+
+hasta lo podemos transformar en un
+
+Chanchito feliz pero en resumen el
+
+objetivo de la etiqueta de spam que
+
+nosotros estamos viendo acá es para
+
+poder identificar algún texto o alguna
+
+etiqueta html dentro de otras etiquetas
+
+y así que nosotros podamos referenciar Y
+
+asignarle algún estilo o manipularla de
+
+cualquier forma van a existir momentos
+
+donde vamos a tener texto Como por
+
+ejemplo puede ser en un párrafo o en
+
+algún título donde el contenido de este
+
+va a ser demasiado grande y nosotros
+
+vamos a querer forzar que este se vaya a
+
+una nueva línea vamos a ver esa etiqueta
+
+la etiqueta que nosotros queremos ver se
+
+conoce como br y nosotros la vamos a
+
+utilizar para dividir exactamente este
+
+mismo texto voy a presionar un enter
+
+justamente después del spam y voy a
+
+agregarla después de Mostrar voy a
+
+agregar un espacio br y luego de eso
+
+Sencillamente la voy a cerrar ahora lo
+
+que voy a hacer es guardar me devuelvo
+
+aquí a mi explorador y voy a refrescar
+
+ahora nosotros vimos como el texto que
+
+aparece aquí de la etiqueta de span pasó
+
+a una siguiente línea y con esta
+
+etiqueta de br nosotros vamos a poder
+
+hacer saltos de línea podemos hacer
+
+múltiples saltos de línea yo puedo
+
+agregar también otra etiqueta de br y
+
+esto lo que hará será mover aún más
+
+abajo el texto de la etiqueta de span
+
+esto que aparece acá ahora nosotros
+
+vamos a ver una siguiente etiqueta que
+
+va a ser la etiqueta de hipervínculo la
+
+etiqueta de hipervínculo nos va a servir
+
+para que nosotros podamos ir desde una
+
+página web a otra página web o incluso
+
+para que nosotros naveguemos dentro de
+
+nuestra misma web para eso nosotros
+
+vamos a abrir acá una etiqueta vamos a
+
+colocar el texto de a y lo vamos a
+
+cerrar inmediatamente y aquí yo le voy a
+
+colocar Ir a
+
+Google y ahora lo que tenemos que hacer
+
+es pasarle una propiedad a la etiqueta
+
+de a la etiqueta de a o también llamada
+
+anchor nos sirve para que nosotros
+
+podamos Navegar pero para eso tenemos
+
+que indicarle A dónde nosotros queremos
+
+que nos lleve este link para eso
+
+nosotros tenemos que escribir la
+
+propiedad de hre igual comillas dobles y
+
+dentro de las comillas Nosotros le
+
+tenemos que indicar la URL completa del
+
+sitio web al cual nosotros queremos ir
+
+en este caso tenemos que indicar siempre
+
+https 2. 12 sl hacia adelante y aquí
+
+nosotros tenemos que escribir la web a
+
+la cual nosotros queremos ir aquí yo voy
+
+a escribir w
+
+ww.
+
+google.co.nz porque yo vivo en Nueva
+
+Zelanda pero ustedes pueden colocar acá
+
+com
+
+cl.co Lo que ustedes quieran Ahora sí yo
+
+voy a guardar y me voy a devolver al
+
+explorador voy a refrescar y aquí
+
+nosotros ahora vemos que aparece un link
+
+que nos indica Ir a Google si es que yo
+
+lo pincho este me va a abrir dentro de
+
+la misma instancia de mi explorador me
+
+va a abrir
+
+google.co.nz ahora qué es lo que pasa si
+
+yo quisiera abrir esta web de
+
+google.co.nz pero en una nueva pestaña
+
+porque cuando yo pincho acá lo que hace
+
+es que me recarga mi misma página Bueno
+
+en ese caso nosotros Podemos agregar
+
+también una nueva propiedad a esta
+
+etiqueta de a que se va a llamar Target
+
+y aquí nosotros tenemos que asignarle el
+
+siguiente valor gu bajo Blank y con eso
+
+volvemos a refrescar aquí en nuestro
+
+explorador y nos aseguramos de haber
+
+guardado Ahora cuando yo [ __ ] en este
+
+link de Ir a Google lo que hará será
+
+abrirme una nueva pestaña donde me va a
+
+cargar la página que yo le indiqué acá y
+
+mi primera web va a seguir abierta
+
+dentro del explorador Ahora sí puedo
+
+venir acá y puedo cerrar la pestaña
+
+Ahora qué pasa si nosotros queremos
+
+mostrarle imágenes al usuario para eso
+
+nosotros podemos utilizar otra etiqueta
+
+que se llama img vamos a verla Para eso
+
+me vengo aquí al final del archivo y voy
+
+a agregar la etiqueta de img y la voy a
+
+cerrar inmediatamente aquí nosotros
+
+estamos viendo una pequeña diferencia
+
+con las etiquetas esta etiqueta de img
+
+nosotros no no la cerramos como Ah como
+
+el Slash hacia delante con img en este
+
+caso esta etiqueta no es necesario
+
+hacerlo nosotros Sencillamente le
+
+podemos indicar a la etiqueta que la
+
+queremos cerrar aquí inmediatamente
+
+entonces abrimos la etiqueta y con este
+
+Slash hacia delante Nosotros le
+
+indicamos que no va a necesitar el
+
+cierre de etiqueta de esta manera la
+
+etiqueta de img queda completamente
+
+autocontenida ahora nosotros tenemos que
+
+mostrar una imagen y para eso nosotros
+
+lo podemos hacer de la siguiente manera
+
+vamos a escribir Sr c igual comillas
+
+dobles y aquí nosotros tenemos dos
+
+alternativas la primera es que nosotros
+
+le pasemos una ruta a la imagen que se
+
+encuentra en la web para que nosotros
+
+mostremos eso vendría siendo con
+
+http
+
+ttps
+
+www.rut aa
+
+imagen.com
+
+imagen.png pero nosotros no vamos a
+
+hacer eso nosotros lo que haremos será
+
+obtener una imagen directamente de
+
+nuestro disco duro y la vamos a colocar
+
+aquí en conjunto a nuestro archivo de
+
+y le voy a colocar de nombre
+
+cofi y listo una vez que hicimos eso
+
+ahora ya lo puedo cerrar y como podemos
+
+ver ahora el archivo de cofi png aparece
+
+aquí justamente al lado de mi archivo de
+
+index.html.com
+
+necesidad de indicar w w w porque el
+
+archivo de cofi se encuentra exactamente
+
+en el mismo nivel o dentro de la misma
+
+carpeta que
+
+y aquí voy a agregar
+
+img y ahora Sencillamente con el mouse
+
+voy a tomar este archivo de coffee.png y
+
+lo voy a arrastrar hacia img me está
+
+preguntando si es que quiero hacer esta
+
+acción le voy a decir por supuesto vamos
+
+y ahora coffee se encuentra dentro de la
+
+carpeta de img ahora si yo quisiera
+
+referenciar este mismo archivo Pero
+
+dentro de la carpeta de img lo único que
+
+tenemos que hacer acá es indicar el
+
+nombre de la carpeta que es img seguido
+
+de un Slash hacia adelante ahora vamos a
+
+guardar me devuelvo aquí a mi explorador
+
+y voy a pinchar nuevamente aquí en
+
+refrescar como podemos ver la imagen
+
+sigue cargándose Pero tenemos el
+
+problema ahora que la imagen Es
+
+demasiado grande por lo que voy a
+
+redimensionar la para que se pueda ver
+
+un poco mejor con respecto al ancho que
+
+tenemos ahora del explorador Así es que
+
+vamos a ver la siguiente propiedad de la
+
+etiqueta de img la cual es with W i d th
+
+H Luego de eso utilizamos el símbolo de
+
+igual seguido de la comillas dobles y
+
+dentro de estas comillas dobles nosotros
+
+vamos a indicar cuánto queremos que
+
+tenga de ancho nuestra imagen aquí yo le
+
+voy a indicar que quiero que sea de 400
+
+Estos son 400 píxeles ahora me devuelvo
+
+nuevamente al explorador y voy a pinchar
+
+aquí en refrescar y ahora vemos que la
+
+imagen efectivamente se ha achicado un
+
+poco y se ve un poco mejor con respecto
+
+al ancho de nuestro explorador ahora
+
+nosotros podemos manipular el ancho pero
+
+también podríamos manipular el alto de
+
+la imagen nosotros lo que hicimos acá
+
+cuando manipul amos el ancho también
+
+inmediatamente se manipuló el alto por
+
+lo que el alto con respecto al ancho
+
+cuando Solamente le indicamos la
+
+propiedad de wid va a mantener su
+
+aspecto esto quiere decir que si
+
+nosotros tenemos una imagen
+
+perfectamente cuadrada como es el caso
+
+de esta imagen si le indicamos que tiene
+
+de ancho 400 el alto también se va a
+
+modificar para ser 400 Yo también lo que
+
+puedo hacer es cambiar esta propiedad de
+
+wid por height y como pueden ver le
+
+estoy asignando exactamente el mismo
+
+valor que son 400 y si me vengo aquí al
+
+explorador y refresco vemos que la
+
+imagen no ha cambiado en lo absoluto Y
+
+esto es por lo que les estaba explicando
+
+anteriormente que va a mantener la
+
+relación entre el alto y el ancho de la
+
+imagen cuando nosotros
+
+manipulos las propiedades de height o de
+
+with ahora nosotros aún así podemos
+
+entre comillas pasarnos de listo y
+
+forzar unas dimensiones de la imagen y
+
+para eso nosotros Sencillamente le
+
+pasamos ambas propiedades le pasamos
+
+height y le pasamos wid en este caso yo
+
+le voy a indicar que el ancho quiero que
+
+este sea de 100 píxeles voy a guardar
+
+ahora refresco nuevamente acá en el
+
+explorador y vemos que la imagen aparece
+
+completamente deformada fea horrible No
+
+hagan esto por favor a menos que exista
+
+un caso de uso demasiado particular esto
+
+por favor no lo hagan traten de mantener
+
+el aspecto que tengan sus imágenes Así
+
+es que
+
+Sencillamente lo vamos a dejar así y así
+
+nosotros vemos como finalmente aparece
+
+la imagen con su respectivo alto y ancho
+
+y así la imagen no se ve des si es que
+
+ustedes quieren utilizar esta imagen por
+
+supuesto les voy a dejar el link abajo
+
+en la descripción de este video ya hemos
+
+visto un montón de etiquetas con las
+
+cuales le podemos Mostrar información al
+
+usuario les podemos Mostrar texto
+
+también le podemos Mostrar imágenes y
+
+también podemos hacer pequeñas
+
+selecciones dentro de nuestras propias
+
+etiquetas ahora lo que vamos a ver es
+
+una forma de Cómo podemos interactuar
+
+con el usuario y es más que nada para
+
+poder recopilar información de él Vamos
+
+a continuar viendo los formularios vamos
+
+a eso para eso nos venimos nuevamente
+
+aquí a nuestro archivo de
+
+vamos a hacer es que justamente al final
+
+de esto vamos a ver una nueva etiqueta
+
+que se llama form dentro de form
+
+nosotros tenemos que colocar los
+
+distintos Campos que vamos a utilizar
+
+para poder recopilar información del
+
+usuario y vamos a comenzar con una
+
+etiqueta de input y la vamos a cerrar
+
+inmediatamente tal cual como nosotros
+
+hicimos con la etiqueta de imagen ahora
+
+nosotros vamos a guardar esto y vamos a
+
+ver cómo se ve voy a refrescar y voy a
+
+bajar al final y aquí al final bien
+
+pequeñito nosotros vemos Que tenemos un
+
+campo de texto que la verdad no tenemos
+
+idea A qué hace referencia este campo de
+
+texto no sabemos qué es lo que tenemos
+
+que escribir ahí así que eso lo vamos a
+
+ir cambiando poco a poco lo primero que
+
+vamos a hacer es tomar esta etiqueta de
+
+form y para no estar constantemente
+
+bajando al final del archivo lo voy a
+
+agregar aquí al comienzo justamente
+
+cuando abro mi etiqueta de Body Ahora sí
+
+voy a guardar y voy a volver a refrescar
+
+acá y debiese aparecer justamente antes
+
+de mi primer hei refresco y ahí aparece
+
+de manera perfecta Ahora sí podemos
+
+continuar para que haga sentido el dato
+
+que nosotros queremos recopilar del
+
+usuario nosotros tenemos que indicarle
+
+una etiqueta estas etiquetas se llaman
+
+Label Así es que aquí nosotros vamos a
+
+colocar un Label y le vamos a indicar
+
+cuál es el dato que nosotros estamos
+
+solicitando del usuario y vamos a
+
+indicar que nosotros queremos el nombre
+
+ahora sí nosotros vamos a guardar y
+
+vamos a refrescar aquí nosotros vemos
+
+que ahora aparece el texto de nombre
+
+pero si yo pincho en él claro me va a
+
+intentar seleccionar el texto Pero yo lo
+
+que quiero es que tenga foco
+
+inmediatamente en nuestro campo de texto
+
+de manera que si yo no sé Soy medio
+
+torpe Y en lugar de presionar aquí en el
+
+input lo que hago es que presiono aquí
+
+en el Label quiero que igual de todas
+
+maneras tenga el foco mi campo Así es
+
+que vamos a agregar eso para eso
+
+nosotros dentro de la etiqueta de Label
+
+vamos a aprovechar de hacer uso de una
+
+propiedad que se llama for y esta Va a
+
+ser igual a comillas dobles nuevamente y
+
+aquí Nosotros le tenemos que indicar
+
+cuál va a ser el identificador del campo
+
+al cual Nosotros le queremos dar el poco
+
+y por ahora nosotros vamos a indicar que
+
+su identificador es nombre ahora tenemos
+
+que agregarle este mismo identificador
+
+al campo al cual queremos que haga
+
+referencia este Label Así es que nos
+
+venimos aquí a input y vamos a escribir
+
+lo siguiente espacio ID igual comillas
+
+dobles nuevamente y dentro de esto
+
+nosotros tenemos que colocar exactamente
+
+el mismo texto que nosotros colocamos
+
+aquí dentro de for el cual es nombre así
+
+es que aquí escribo nombre guardo me
+
+devuelvo a mi explorador y pincho acá en
+
+refrescar ahora Claro sigue apareciendo
+
+nuestra etiqueta de nombre pero cuando
+
+yo pincho en esta fíjense lo que va a
+
+pasar aquí con el campo agarró el foco
+
+de esta manera yo puedo comenzar a
+
+escribir inmediatamente Dentro de este
+
+input y no es necesario que yo tenga que
+
+venir aquí a pinchar sobre el campo
+
+Sencillamente Yo me puedo equivocar y
+
+pinchar aquí dentro de nombre igual voy
+
+a recibir el foco dentro del campo de
+
+nombre dentro de las propiedades de la
+
+etiqueta de input Hay una que es
+
+sumamente importante que nosotros no
+
+hemos visto todavía la cual es la
+
+propiedad de name Por qué es importante
+
+es importante porque cuando nosotros
+
+enviemos este formulario a algún
+
+servidor el servidor va a interpretar
+
+los datos del formulario por el nombre
+
+que nosotros le indiquemos acá Qué
+
+quiere decir esto el servidor va a
+
+recibir un objeto de formulario el cual
+
+va a contener una llave y un valor la
+
+llave va a ser lo que nosotros le
+
+indiquemos acá y el valor va a ser el
+
+contenido que va a tener nuestro campo
+
+Qué quiere decir esto si yo coloco acá
+
+nombre el servidor va a recibir un
+
+objeto de llave valor donde la llave va
+
+a ser nombre y si yo coloco acá
+
+Chanchito feliz el valor que va a
+
+contener la llave va a ser Chanchito
+
+feliz por lo que esta propiedad de
+
+nombre no se nos puede olvidar nunca voy
+
+a continuar viendo otra propiedad la
+
+cual es la de placeholder y placeholder
+
+es una forma similar a la etiqueta de
+
+Label la cual nos va a indicar Qué tipo
+
+de dato es el que nosotros tenemos que
+
+colocar dentro de nuestro input aquí
+
+nosotros vamos a llamar a placeholder la
+
+propiedad de placeholder igual comillas
+
+dobles y dentro de esto nosotros podemos
+
+indicar por ejemplo nombre Ahora sí me
+
+voy a devolver a mi explorador refresco
+
+y me va a aparecer aquí con una letra
+
+gris suave el texto de nombre pero si yo
+
+pincho en esta y luego sigo escribiendo
+
+vamos a ver que ese texto medio
+
+suavecito desapareció y esto es porque
+
+la propiedad de placeholder se utilizan
+
+más que nada para poder indicar al
+
+usuario qué es lo que tiene que ir ahí
+
+nosotros además de nombre podríamos
+
+colocarle algún ejemplo como por ejemplo
+
+Chanchito feliz punto punto punto Y
+
+ahora cuando yo refresco me va a
+
+aparecer acá el texto de Chanchito feliz
+
+y la última propiedad que nosotros vamos
+
+a ver de nuestras etiquetas de input es
+
+la propiedad de type que la voy a
+
+agregar justamente antes de este ID voy
+
+a escribir aquí type igual comillas
+
+dobles aquí podemos asignarle distintos
+
+valores para que nuestra etiqueta de
+
+input se comporte de manera diferente
+
+dependiendo del valor que contenga esta
+
+propiedad Qué quiere decir esto Si es
+
+que yo aquí dentro de type le paso
+
+submit mi campo se va a transformar en
+
+un botón si es que aquí yo le paso text
+
+y guardo mi campo se va a transformar
+
+nuevamente en lo que era antes esto
+
+quiere decir que la propiedad de type
+
+tiene por defecto el valor de text si
+
+nosotros omitimos Esto va a ser como que
+
+le estemos pasando la propiedad de type
+
+y que esta sea igual a texto vamos a
+
+devolverla ahora algunos valores
+
+bastante recurrentes que se colocan acá
+
+dentro de la propiedad de type son el de
+
+email donde ahora se va a esperar que
+
+nosotros ingresemos un valor de tipo
+
+email también existe el de password el
+
+cual lo que hará será ocultar el valor
+
+que nosotros coloquemos acá aquí yo no
+
+estoy colocando asteriscos Aquí yo estoy
+
+escribiendo texto también es muy común
+
+utilizar
+
+radio que como habrán visto esto se
+
+transforma en un botón de radio que si
+
+yo lo pincho me lo va a seleccionar y
+
+también por supuesto puesto tenemos
+
+checkbox que checkbox lo que hace es que
+
+me lo transforma en una de estas
+
+casillas que nosotros podemos cliquear
+
+también existe otro type que es el de
+
+archivo nosotros escribimos file acá y
+
+ahora cuando nosotros refrescos vamos a
+
+ver que nos indica ahora que podamos
+
+seleccionar un archivo ahora si es que
+
+yo pincho Esto me va a mostrar el
+
+seleccionador de archivos y aquí yo
+
+puedo seleccionar lo que yo quiera voy a
+
+seleccionar algo que tenga aquí en el
+
+escritorio vamos a pinchar en esto y ahí
+
+me aparece que yo ya he seleccionado
+
+algo sin embargo nosotros vamos a
+
+mantenernos por ahora con texto Ahora sí
+
+vamos a refrescar y vamos a continuar
+
+vamos a agregar justamente después de
+
+este input una etiqueta de salto de
+
+línea porque lo que me interesa hacer es
+
+agregar otro
+
+campo que va a ser algo Bastante similar
+
+en lugar de decir nombre Esto va a ser
+
+apellido la etiqueta va a ser apellido
+
+el tipo va a ser texto el ID es apellido
+
+el texto que vamos a colocar aquí en la
+
+propiedad de name va a ser
+
+apellido y dentro del Place horder le
+
+vamos a colocar Chanchito
+
+triste Ahora nos devolvemos refrescamos
+
+y vemos que tenemos los dos Campos
+
+nosotros Podemos agregar tantos Campos
+
+como nosotros queramos dentro de una
+
+etiqueta de form con la cual nosotros
+
+vamos a poder agrupar los valores que
+
+nosotros le enviemos al servidor
+
+dependiendo del formulario ahora vamos a
+
+aprovechar de ver otra etiqueta
+
+vamos a agregar un salto de línea y aquí
+
+nosotros vamos a escribir lo siguiente
+
+text Area y la etiqueta de text Area
+
+tiene propiedades bastante similares
+
+aquí a input nosotros también le vamos a
+
+poder pasar un ID vamos a indicar que el
+
+ID de Esto va a ser
+
+comentario le vamos a dar también un
+
+Place
+
+holder que va a ser igual a ingreso
+
+comentario también le tenemos que dar
+
+una propiedad de name que va a ser
+
+Adivinen así es comentario y ahora vamos
+
+a guardar y vamos a refrescar y aquí
+
+nosotros vemos cómo nos aparece esta
+
+caja para que nosotros podamos ingresar
+
+un comentario y esta Nosotros también la
+
+podemos redimensionar a nuestro antojo
+
+sin embargo Nosotros también podemos
+
+especificar alguna dimensión en
+
+particular que queramos que esta tenga
+
+yo lo que voy a hacer es que me voy a
+
+devolver justo antes de la propiedad de
+
+ID y voy a pasarle la propiedad de Rose
+
+y aquí le voy a indicar que quiero que
+
+tenga 10 filas ahora me devuelvo el
+
+explorador refresco y vemos ahora que la
+
+cajita es más grande cuando refresco
+
+vamos a hacer lo mismo ahora pero con la
+
+propiedad de cols y cols recibe Así es
+
+columnas y le voy a indicar que quiero
+
+que tenga este 50 columnas me devuelvo
+
+el explorador refresco me aseguro de
+
+haber guardado obviamente y ahora
+
+nosotros vemos que nuestra caja de texto
+
+es bastante más grande y de esta manera
+
+nosotros podemos empezar a manipular
+
+nuestra etiqueta de text área Por
+
+supuesto que nosotros también podemos
+
+asignarle una etiqueta de Label la cual
+
+va a decir comentario y también le
+
+tendríamos que pasar la propiedad de for
+
+y le tenemos que indicar el ID al cual
+
+nosotros queremos que haga referencia
+
+cuando nosotros lo pinchemos que en este
+
+caso el ID es el de
+
+comentario vamos a guardar volvemos al
+
+explorador refrescamos y cuando yo
+
+[ __ ] ahora dentro del texto de
+
+comentario vemos como el text área ahora
+
+toma el foco vamos a ver ahora una
+
+última etiqueta y esto nosotros lo vamos
+
+a hacer nuevamente con un salto de línea
+
+Aquí vamos a aprovechar de agregar un
+
+input que va a ser de tipo
+
+submit guardamos vamos a refrescar ahora
+
+y vemos que aquí aparece un botón este
+
+botón cuando nosotros lo pinchemos va a
+
+tomar todos los valores que se
+
+encuentren dentro de los campos de
+
+nuestro formulario y lo va a enviar al
+
+servidor ahora a dónde lo va a enviar
+
+nosotros tenemos que especificar A dónde
+
+queremos que todos estos datos se vayan
+
+y eso nosotros lo hacemos acá dentro de
+
+la etiqueta de form aquí nosotros
+
+tenemos que pasar la propiedad de action
+
+y action tiene que contener una ruta
+
+dentro de nuestro servidor O podría ser
+
+también dentro de otra aplicación dentro
+
+de otra web pero en este caso nosotros
+
+vamos a indicar que va a ser la raíz y
+
+Aquí vamos a indicar también formulario
+
+aquí si nosotros tenemos nuestro
+
+servidor en php podríamos colocar acá
+
+php y si estamos utilizando algún
+
+framework que se encargue de ocultarnos
+
+las extensiones de nuestros archivos
+
+Sencillamente le podemos indicar Slash
+
+hacia delante formulario después de esto
+
+tenemos que indicar cuál va a ser el
+
+método que nosotros vamos a utilizar
+
+para poder enviar los datos a nuestro
+
+servidor acá nosotros tenemos dos
+
+alternativas tenemos get Y tenemos post
+
+get lo que hará será enviar los valores
+
+que se encuentran dentro de los campos a
+
+través de la URL vamos a ver cómo
+
+funcionaría eso vamos a agrandar un
+
+poquito más nuestro explorador y acá en
+
+los campos vamos a escribir lo siguiente
+
+dentro de nombre nosotros vamos a
+
+escribir Nicolas apellido schurman y en
+
+el comentario vamos a escribir Este es
+
+un comentario ahora fíjense en lo que va
+
+a ocurrir cuando yo presione en este
+
+botón de submit voy a presionar y miren
+
+lo que ocurrió acá arriba me ha cambiado
+
+la ruta a Slash hacia delante formulario
+
+símbolo de pregunta fíjense Acá hay un
+
+símbolo de pregunta y después de eso
+
+aparece nombre seguido de eso el valor
+
+el cual es Nicolas y después de eso
+
+aparece un amper s seguido de ampersand
+
+nosotros tenemos apellido el cual es el
+
+valor que se encontraba dentro de la
+
+propiedad de name tenemos mi apellido
+
+que es schurman y después de eso tenemos
+
+ampersan comentario y el símbolo de
+
+igual en conjunto con este es un
+
+comentario separado por el símbolo de
+
+más veamos qué es lo que ocurre si
+
+nosotros decidimos cambiar el valor de
+
+la propiedad de name y la cambiamos por
+
+lalalá vamos a ver qué es lo que ocurre
+
+voy a escribir acá lalalá me voy a
+
+devolver y voy a volver a a refrescar
+
+acá ahora que refresques nuevamente
+
+Nicolas schurman y este es
+
+un comentario presiono acá en submit y
+
+vemos ahora que lo que está apareciendo
+
+acá en lugar de decir nombre dice Lalala
+
+por eso la propiedad de name es tan
+
+importante que nosotros la incluyamos
+
+dentro de cada una de nuestras etiquetas
+
+de input Ahora nos vamos a devolver y
+
+vamos a ver qué es lo que ocurre si
+
+nosotros en lugar de utilizar el método
+
+de get utilizamos el método de post voy
+
+a guardar acá me devuelvo refresco y voy
+
+a escribir acá nuevamente Nicolás el
+
+apellido schurman y finalmente el
+
+comentario de Este es un comentario y
+
+ahora voy a presionar en
+
+submit y fíjense en lo que ocurrió
+
+nuestra URL contiene solamente el
+
+símbolo de es hc adelante y formulario
+
+entonces Dónde están los datos si es que
+
+nosotros inspeccionamos acá nuestra web
+
+y nos vamos a Network nos vamos a dar
+
+cuenta
+
+justamente acá abajo que aparece
+
+Finalmente formulario y cuando yo lo
+
+pincho voy a ir aquí al final dentro de
+
+mi pestaña de headers puedo ver que yo
+
+estoy enviando datos de formulario donde
+
+me aparece Lalala Nicolás apellido
+
+schurman y comentario Este es un
+
+comentario ahora ustedes se preguntarán
+
+profesor Cuál es la mejor forma entonces
+
+para enviar los datos Y la verdad que
+
+entre mejor y peor En mi opinión vendría
+
+siendo una preferencia lo único que sí
+
+que tenemos que tener cuidado es que si
+
+vamos a a utilizar el método de get la
+
+URL máxima que nosotros podemos generar
+
+creo que son hasta 255 caracteres
+
+Entonces si estamos utilizando muchos
+
+muchos Campos get no nos va a servir por
+
+lo que Debi éos preferir post ahora van
+
+a existir algunas personas que van a
+
+decir que post es seguro porque los
+
+datos no aparecen en la URL pero post no
+
+es seguro porque como nosotros vimos acá
+
+igual podemos acceder a ver esos datos
+
+en el caso que un usuario haya enviado
+
+un usuario de contraseña eso no va a ser
+
+nuestras conexiones seguras Así que si
+
+ustedes estaban pensando utilizar post
+
+Solamente porque es seguro piénsenlo de
+
+nuevo no es seguro Sencillamente es otra
+
+forma en la cual nosotros podemos enviar
+
+datos Entonces cuál es la forma segura y
+
+la forma segura es utilizando
+
+certificados que se encarguen de
+
+encriptar todas nuestras conexiones no
+
+lo vamos a ver ahora eso es un poco más
+
+avanzado pero lo importante que tienen
+
+que saber es que post no es seguro por
+
+sí solo lo único que va a hacer es
+
+enviar los datos en las cabeceras en
+
+lugar de la URL qué nos falta por ver
+
+los valores por defecto que le podemos
+
+asignar a los formularios para poder
+
+asignarle valores por defecto Nos vamos
+
+aquí a nuestras etiquetas de input y le
+
+vamos a indicar Wow value igual y un
+
+valor por defecto aquí yo le voy a
+
+colocar que el valor por defecto es
+
+Chanchito y luego de eso me voy a ir al
+
+siguiente input y voy a escribir
+
+nuevamente value y le voy a asignar el
+
+valor de feliz finalmente me voy a text
+
+Area Y ustedes Pensarán que aquí para
+
+poder pasar el valor por defecto tengo
+
+que hacerlo también con la propiedad de
+
+value pero si nosotros hacemos eso vamos
+
+a ver qué es lo que pasa
+
+Este es un valor por defecto vamos a
+
+guardar nos volvemos acá y vamos a
+
+refrescar Qué pasó nombre y apellido
+
+tienen un valor por defecto pero nuestro
+
+text Area no tiene un valor por defecto
+
+Y esto es porque nuestra etiqueta de
+
+text Area no utiliza la propiedad de
+
+value para poder obtener valores por
+
+defecto Así que vamos a eliminar esta
+
+propiedad y nos vamos a ir aquí al final
+
+justamente donde tenemos el cierre de la
+
+etiqueta de text Area y aquí voy a pegar
+
+Este es un valor por defecto Ahora sí
+
+voy a guardar me devuelvo voy a pinchar
+
+acá en el botón de refrescar y ahora
+
+vemos cómo aparece el texto de Este es
+
+un valor por defecto Vamos a continuar
+
+viendo ahora los botones en html
+
+nosotros hasta ahora vimos un formulario
+
+el cual contenía al final un input de
+
+tipo submit sin embargo el problema que
+
+tienen estos campos de input tipo submit
+
+es que nosotros no podemos agregar
+
+etiquetas dentro de estos nosotros vamos
+
+a utilizar otro tipo de etiqueta la cual
+
+va a ser un poco más personalizable así
+
+es que lo que haremos será eliminar esto
+
+que aparece acá y vamos a colocar aquí
+
+adentro Button vamos a cerrar la
+
+etiqueta y aquí nosotros vamos a colocar
+
+el texto de enviar aquí es sumamente
+
+importante que cuando nosotros definamos
+
+un botón en html especifiquemos también
+
+su tipo con la propiedad de type y aquí
+
+en type nosotros podemos pasar tres
+
+valores podemos pasar el primero que es
+
+button el segundo que es reset y además
+
+de reset Nosotros también podemos
+
+pasarle el valor de submit vamos a
+
+comenzar primero con Button el un botón
+
+de tipo Button lo único que va a hacer
+
+es que va a ser un botón de tipo Button
+
+como pueden ver en este caso nosotros no
+
+estamos enviando el formulario
+
+Sencillamente lo va a dejar ahí sin
+
+hacer absolutamente nada aquí nosotros
+
+tenemos que especificar cuál
+
+comportamiento queremos que este tenga
+
+Pero eso nosotros debemos hacerlo con
+
+javascript en el caso de reset
+
+esto lo que hará será dejar el
+
+formulario con los valores que tenía
+
+inicialmente o sea yo voy a cambiar todo
+
+esto y ahora voy a presionar nuevamente
+
+en el botón de enviar y como tenía la
+
+propiedad de tipo reset me dejó todos
+
+los valores que este tenía por defecto
+
+cuando inicializando nuestro formulario
+
+y finalmente el último tipo es el de
+
+submit que cuando nosotros creamos un
+
+botón dentro de una etiqueta de form
+
+este va a tomar por defecto el valor de
+
+Sub
+
+por lo que si nosotros refrescamos acá y
+
+yo presiono aquí en enviar va a tratar
+
+de enviar el formulario pero nosotros
+
+siempre tenemos que ser explícitos al
+
+indicar Qué tipo de botón es el que
+
+nosotros estamos colocando acá Así es
+
+que vamos a colocar un botón de tipo
+
+Button vamos a aprovechar de copiar esta
+
+línea pero primero vamos a decir que
+
+este
+
+es tipo
+
+botón vamos a copiar esta línea
+
+pegamos dos veces el siguiente va a ser
+
+reset aquí le vamos a indicar que es
+
+tipo reset y el siguiente es submit que
+
+va a ser de
+
+tipo submit el primer tipo como habíamos
+
+dicho nosotros tenemos que especificar
+
+le con javascript Cuál es el
+
+comportamiento que nosotros queremos que
+
+este tenga el de tipo reset va a dejar
+
+nuestro formulario con los valores
+
+iniciales y el de tipo submit va a
+
+enviar nuestro formulario a la ruta que
+
+nosotros le hayamos indicado en action
+
+utilizando el método que le hayamos
+
+indicado y la ventaja que tienen las
+
+etiquetas de Button A diferencia de un
+
+input de tipo submit es que nosotros
+
+podemos incluir más etiquetas de html
+
+dentro de estos por ejemplo aquí yo
+
+puedo incluir una imagen donde vamos a
+
+mostrar la misma imagen que nosotros
+
+teníamos antes la cual es la de img y
+
+dentro de esta coffee voy a guardar me
+
+devuelvo ahora a mi explorador refresco
+
+y aquí nosotros vemos que tenemos un
+
+botón gigantesco el botón aquí dice tipo
+
+botón pero es finalmente un botón que
+
+contina una imagen vamos a aprovechar de
+
+quitar ahora la
+
+imagen finalmente una etiqueta de Button
+
+es mucho más personalizable que una
+
+etiqueta de input con tipo submit ya nos
+
+falta poco para que veamos nuestros
+
+ejercicios nos faltan todavía un par de
+
+temas por ver Vamos a continuar ahora
+
+con las listas y cómo nosotros podemos
+
+Mostrar distintos elementos dentro de
+
+nuestras web vamos a eso vamos a venir
+
+justamente aquí nuevamente a nuestra
+
+etiqueta de Body y vamos a presionar un
+
+par de veces enter para enviar nuestro
+
+formulario más abajo y Aquí vamos a
+
+escribir lo siguiente ul ul quiere decir
+
+lista no ordenada aquí nosotros vamos a
+
+aprovechar de colocar el
+
+comentario ul es lista no ordenada y
+
+esto quiere decir que cada vez que
+
+nosotros agreguemos elementos a esta
+
+lista estos van a aparecer con un
+
+puntito en negro aquí yo voy a colocar
+
+Li que quiere decir list item o ítem de
+
+la lista y aquí voy a agregar el texto
+
+de elemento uno y voy a copiar toda esta
+
+línea y la voy a pegar un par de veces
+
+Aquí voy a colocar elemento
+
+dos elemento tres elemento
+
+cuatro voy a guardar y ahora nos
+
+devolvemos a nuestro explorador vamos a
+
+pinchar acá para refrescar vamos a hacer
+
+scroll hacia arriba aquí nosotros
+
+podemos ver que tenemos elemento uno
+
+también tenemos elemento dos elemento
+
+tres elemento cuatro pero fíjense que
+
+aquí aparecen unos puntitos en negro
+
+esto quiere decir que nuestra lista es
+
+no ordenada ahora qué es lo que pasa si
+
+nosotros quisiéramos enumerar todos los
+
+elementos que tenemos dentro de una
+
+lista para poder hacer eso nosotros
+
+tenemos que cambiar esta etiqueta de ul
+
+y lo vamos a hacer por una etiqueta de
+
+ol y ol quiere decir ordered listo o
+
+lista ordenada vamos a aprovechar de
+
+copiar este comentario y lo vamos a
+
+dejar justamente aquí después del cierre
+
+de mi etiqueta de ul y Aquí vamos a
+
+colocar ol es
+
+lista ordenada ahora guardamos y nos
+
+vamos al explorador y vamos a ver qué es
+
+lo que nos muestra tenemos elemento uno
+
+elemento 2 elemento 3es Pero fíjense que
+
+acá ahora aparecieron números a los
+
+elementos de nuestra lista tenemos 1 2 3
+
+4 y se va a seguir agregando de manera
+
+incremental dependiendo de Cuántos
+
+elementos nosotros tengamos yo voy a
+
+seguir agregando más elementos acá para
+
+que podamos ver finalmente hasta Cuánto
+
+llega vamos a agregarlo unas dos veces
+
+más volvemos al explorador refrescamos y
+
+aquí nosotros vemos que sigue
+
+incrementando 1 2 3 hasta finalmente el
+
+12 ahora voy a aprovechar de eliminar
+
+los excedentes y voy a dejar solamente
+
+los elementos del 1 al Cuatro De esta
+
+manera nosotros podemos empezar a listar
+
+elementos dentro de nuestras páginas web
+
+ahora también nosotros podemos indicar
+
+cuál es el valor que nosotros queremos
+
+Con el que empiece nuestra lista
+
+ordenada en este caso nosotros tenemos
+
+que está empezando con el valor de uno
+
+voy a refrescar acá vemos que empieza
+
+con 1 2 3 y 4 pero yo puedo hacer que
+
+ese número cambie Y eso lo hago
+
+directamente ingresando aquí a mi
+
+elemento Li y le digo Cuál es el valor
+
+que quiero que este tenga desde el
+
+comienzo aquí yo le voy a indicar el
+
+valor de 50 me voy a devolver al
+
+explorador voy a refrescar y vamos a ver
+
+que ahora los elementos de mi lista van
+
+a empezar con el valor que yo le indiqué
+
+en este caso tengo 50 pero el siguiente
+
+es 51 después tenemos 52 y finalmente
+
+ten tenemos 53 ahora qué pasaría si yo
+
+quiero empezar a anidar listas porque
+
+hasta ahora tengo Solamente una lista
+
+que contiene solamente un nivel y no sé
+
+si de repente Ustedes han visto cuando
+
+tienen una lista que empieza con números
+
+después sigue con letras después sigue
+
+con números romanos nosotros podemos
+
+hacer exactamente eso mismo para eso nos
+
+vamos a devolver nuevamente aquí a
+
+nuestro editor de texto y vamos a
+
+agregar un tercer elemento dentro de ol
+
+y aquí nosotros vamos a agregar un
+
+elemento de Li Pero dentro de Li le
+
+vamos a volver a agregar otra lista
+
+ordenada y Aquí vamos a seguir agregando
+
+elementos voy a agregar
+
+un sub elemento uno y vamos a copiar
+
+esta línea y la vamos a pegar un par de
+
+veces y lo vamos a cambiar por
+
+subelemento dos y subelemento 3 y vamos
+
+a ver qué es lo que ocurre volvemos al
+
+explorador refrescamos y aquí nosotros
+
+vemos ahora que tenemos 54 y aquí
+
+tenemos el valor de 1 2 y 3 pero este
+
+valor de 1 2 y 3 la verdad es que quiero
+
+que cambie un poco porque tengo acá 1 2
+
+3 pero aquí arriba o en la lista en la
+
+raíz de mi lista también tengo números
+
+que empiezan desde el 50 hasta el 54 Así
+
+que quiero cambiar esto por otra cosa
+
+vamos a ver cómo podemos hacer eso nos
+
+vamos a devolver acá y aquí dentro de
+
+los elementos vamos a agregar la
+
+siguiente propiedad vamos a indicar
+
+Style y aquí le vamos a pasar el valor
+
+de list gu Style type seguido de dos
+
+puntos y aquí nos va a mostrar un
+
+listado de opciones que nosotros podemos
+
+indicar en este caso el que mí me
+
+interesa es lower Alpha vamos a guardar
+
+y nos devolvemos al explorador
+
+refrescamos y aquí nosotros vemos que
+
+ahora el valor ha cambiado por a pero no
+
+ha cambiado para el resto de los
+
+elementos Entonces vamos a tomar esta
+
+misma propiedad de Style y la vamos a
+
+agregar también para los elementos que
+
+vienen lo vamos a agregar acá al
+
+subelemento dos y al subelemento tres
+
+guardamos nos devolvemos y refrescamos y
+
+aquí nosotros ahora vemos como los
+
+elementos cambiaron de números del 1 2 y
+
+3 Ahora son A B y C y de esta manera
+
+nosotros podemos crear listas y también
+
+podemos anidar listas dentro de nuestras
+
+listas en el caso que ustedes quieran
+
+utilizar Sencillamente otro tipo de
+
+valor para poder indicar el índice de la
+
+lista acá nosotros tenemos ABC pero
+
+ustedes podrían preferir utilizar otra
+
+cosa en ese caso sencillamente se
+
+devuelven acá al editor y cambian este
+
+valor de lower Alpha lo eliminan
+
+presionan control espacio y les va a
+
+aparecer una lista con la cual ustedes
+
+van a poder seleccionar el valor que va
+
+a aparecer a la izquierda de los
+
+elementos para poder indicarles cómo los
+
+va a ir contando si va a serir 1 2 3 4 5
+
+6 si es que van a ser con cuadrados con
+
+símbolos con chanchitos ustedes lo
+
+eligen acá y yo lo voy a cambiar por
+
+lower Roman Así es que vamos a cambiar
+
+esta parte de Alpha por
+
+Roman guardamos nos devolvemos al
+
+explorador y refrescamos y ahora vemos
+
+que tenemos números romanos la última
+
+parte que nosotros vamos a ver de este
+
+pequeño curso de html son las tablas
+
+Cómo nosotros las podemos listar comoo
+
+nosotros también podemos distribuir el
+
+contenido dentro de nuestras tablas
+
+también así como sus cabeceras y también
+
+sus footers una tabla principalmente se
+
+divide en filas y también en columnas
+
+pero cada una de estas columnas por
+
+supuesto va a tener una cabecera y
+
+también puede tener un pie vamos a ver
+
+cómo se hace dentro de nuestro archivo
+
+de Index html vamos a llegar aquí Justo
+
+a la apertura de mi etiqueta de Body y
+
+aquí nosotros vamos a escribir lo
+
+siguiente Table y dentro de nuestra
+
+etiqueta de table vamos a escribir TR TR
+
+quiere decir Table Row o una fila dentro
+
+de nuestra tabla dentro de nuestros TR
+
+nosotros podemos utilizar otra etiqueta
+
+para poder indicar que lo que nosotros
+
+vamos a colocar dentro de esta etiqueta
+
+de TR es una cabecera Y eso nosotros lo
+
+hacemos con la etiqueta de
+
+th y aquí nosotros podemos empezar a
+
+colocar cosas como por ejemplo voy a
+
+indicar precio y vamos a aprovechar de
+
+copiar esta línea y la vamos a duplicar
+
+y vamos a colocar también que la primera
+
+va a ser producto vamos a guardar y
+
+vamos a volver aquí a nuestro explorador
+
+para ver cómo se está viendo esto
+
+subimos y aquí nosotros estamos viendo
+
+que aparece producto y aparece precio
+
+ahora esto pareciera que está Solamente
+
+con negrita pero va a empezar a hacer
+
+más sentido una vez que nosotros
+
+empecemos a agregar cada vez más y más
+
+elementos a nuestra tabla nos vamos a
+
+devolver al editor de texto y aquí
+
+nosotros vamos a agregar otro TR pero
+
+nosotros en lugar de colocar una
+
+etiqueta de th vamos a colocar una
+
+etiqueta de T d la etiqueta de TD se
+
+utiliza para poder definir elementos
+
+estándares que se encuentran dentro de
+
+las celdas de nuestra tabla aquí
+
+nosotros vamos a colocar un producto
+
+vamos a colocar que el primer producto
+
+es Hol bits y vamos a indicar que su
+
+precio agregando otra etiqueta de TD
+
+vamos a indicar que el precio es gratis
+
+Así es H bits es gratis ahora sí nos
+
+vamos a devolver a nuestro explorador y
+
+vamos a refrescar aquí nosotros vemos
+
+que aparece el texto de Hol Beach y
+
+también aparece el texto de gratis y
+
+cada uno con respecto a la cabecera a la
+
+cual nosotros esperábamos que apareciera
+
+aquí nosotros tenemos precio con gratis
+
+y también tenemos producto con Hol bits
+
+vamos a devolvernos al editor cada vez
+
+que nosotros agregamos una etiqueta de
+
+th eso lo que hará será generar una
+
+columna pero también lo va a hacer en el
+
+caso que nosotros empecemos a colocar
+
+etiquetas de TD por lo que si nosotros
+
+no somos ordenados podríamos terminar
+
+una tabla que tiene más celdas en sus
+
+filas que cabeceras y nosotros no
+
+queremos hacer eso nosotros queremos que
+
+cada una de nuestras columnas tenga una
+
+cabecera para que nosotros sepamos A qué
+
+hace referencia cada una de nuestras
+
+columnas nos vamos a devolver y vamos a
+
+eliminar esta celda de gratis en el caso
+
+que nosotros queramos seguir agregando
+
+cada vez más y más datos nosotros
+
+podemos tomar esta fila de TR la vamos a
+
+copiar nuevamente y esto lo va a agregar
+
+como una nueva fila aquí nosotros vamos
+
+a agregar otro producto vamos a colocar
+
+que tenemos un Chanchito feliz y vamos a
+
+indicar que su precio no es gratis su
+
+precio va a ser de
+
+19 90
+
+dó vamos a decir ahora nos vamos a
+
+devolver y vamos a refrescar para ver
+
+cómo se está viendo esto y ahora que
+
+empezamos a agregar más elementos y
+
+estos por supuesto son cada vez más
+
+anchos Más que nada porque tienen más
+
+texto vemos como estos se empiezan a
+
+alinear con sus cabeceras y además algo
+
+sumamente importante los elementos que
+
+nosotros agregamos con th estos se
+
+encuentran centrados con respecto a la
+
+columna A diferencia de los elementos
+
+agregados con la etiqueta de TD los
+
+cuales se encuentran alineados a la
+
+izquierda vamos a hacer esto todavía más
+
+explícito agregando otro elemento que
+
+tenga bastante más texto nos vamos a
+
+devolver a nuestro editor y vamos a
+
+copiar nuevamente una fila de TR y la
+
+vamos a agregar abajo y ahora vamos a
+
+colocar que este es un Chanchito feliz
+
+muy
+
+feliz y el precio de este va a ser más
+
+caro porque este es muy feliz entonces
+
+va a ser de $9 ahora sí guardo y me
+
+devuelvo al explorador refresco y ahora
+
+nosotros vemos Que efectivamente nuestro
+
+elemento creado con la etiqueta de th se
+
+encuentra completamente centrado pero
+
+todos los otros elementos se encuentran
+
+alineados a la izquierda ahora vamos a
+
+hacer que los elementos que aparecen
+
+dentro de la tabla por lo menos tengan
+
+una especie de separación entre cada uno
+
+de ellos para que sea más fácil
+
+visualizar estos elementos para eso nos
+
+vamos a devolver aquí a nuestro
+
+explorador y aquí donde dice Table vamos
+
+a agregarle una propiedad la cual va a
+
+ser la de Style y esta Va a ser
+
+Exactamente igual a Border dos puntos y
+
+aquí le vamos a dar los siguientes
+
+valores un
+
+px separado de solid y seguido de Black
+
+y finalizamos con un punto y coma ahora
+
+nosotros vamos a guardar nos vamos a
+
+devolver aquí a nuestro explorador y
+
+vamos a refrescar ahora nosotros vemos
+
+que nuestra tabla tiene unos bordes
+
+negros que nos sirven para poder
+
+diferenciarlo del resto del contenido lo
+
+que vamos a hacer ahora es empezar a
+
+agregar también este mismo elemento a
+
+cada una de las celdas que se encuentra
+
+dentro de nuestra tabla nos vamos a
+
+devolver a nuestro editor de texto y
+
+vamos a aprovechar de conocer una nueva
+
+etiqueta que no se coloca dentro de la
+
+etiqueta Body se coloca dentro de
+
+nuestra etiqueta de Head y vamos a hacer
+
+una pequeña muy muy pequeña Introducción
+
+a css vamos a agregar una etiqueta que
+
+se va a llamar Style y dentro de esta
+
+etiqueta de Style vamos a escribir lo
+
+siguiente Table coma espacio th coma
+
+espacio TD aquí no agregamos una coma y
+
+volvemos a ionar espacio y aquí
+
+utilizamos Los abre y cierra paréntesis
+
+de llaves esto quiere decir que el
+
+estilo que nosotros escribamos dentro de
+
+estos paréntesis de llaves nosotros se
+
+los vamos a aplicar a los elementos de
+
+tabla th y también TD y el estilo que
+
+nosotros queremos aplicar es exactamente
+
+este que nosotros escribimos acá dentro
+
+de la propiedad de Style the table Así
+
+es que vamos a recortar esto y vamos a
+
+eliminar la propiedad de Style y vamos a
+
+pegarlo aquí aquí yo acabo de presionar
+
+la tecla de Tab Porque si se fijaron el
+
+cursor me apareció aquí a la izquierda
+
+yo presiono Tab y me lo dejan en lugar
+
+que yo estaba esperando y aquí
+
+Sencillamente pego ahora voy a guardar y
+
+me voy a devolver al explorador pincho
+
+acá en refrescar y ahora vemos como
+
+aparecen los elementos con unas líneas
+
+negras que hace que sea mucho más fácil
+
+de leer y también nos sirve para poder
+
+saber dónde se encuentran cada uno de
+
+estos elementos como podemos ver aquí
+
+nosotros tenemos nuestro elemento de th
+
+completamente centrado como lo habíamos
+
+dicho antes y tenemos cada uno de los
+
+elementos alineados a la izquierda
+
+excepto este último porque este está
+
+utilizando absolutamente todo el ancho
+
+de nuestras columnas vamos a aprovechar
+
+de Agregar un nuevo estilo a nuestra
+
+tabla para que este se vea un poco más
+
+grande ya que todo pareciera que está
+
+demasiado junto demasiado pegado Vamos a
+
+darle un poco más de espacio y
+
+justamente aquí a nuestra etiqueta de
+
+table vamos a volver a agregar
+
+nuevamente Style y aquí Nosotros le
+
+vamos a dar un ancho de wid dos puntos
+
+espacio y vamos a darle 500 px y
+
+finalizamos siempre con un punto y coma
+
+cuando estamos agregando estilos
+
+guardamos y nos devolvemos nuevamente al
+
+explorador Aquí vamos a pinchar
+
+nuevamente en refrescar y vemos ahora
+
+como nuestra tabla se ve la verdad es
+
+que bastante más grande hasta ahora
+
+Nosotros hemos visto Cómo podemos ir
+
+agregando más elementos y más elementos
+
+a nuestras tablas pero lo que todavía no
+
+hemos hecho es Cómo poder separarla de
+
+una manera lógica para poder indicarle
+
+al explorador que lo que se encuentra al
+
+comienzo es una cabecera y lo que viene
+
+tiene es el cuerpo de nuestra tabla
+
+vamos a ver esas etiquetas
+
+inmediatamente nos vamos a devolver aquí
+
+a nuestro editor de texto y aquí donde
+
+nosotros tenemos nuestra primera fila lo
+
+que vamos a hacer es recortarla y vamos
+
+a agregar la siguiente etiqueta t Head y
+
+tg nos va a servir para que nosotros
+
+podamos agrupar elementos que se
+
+encuentren en la cabecera de nuestras
+
+tablas en este caso nosotros Debi esem
+
+tener solamente una fila Aunque
+
+posiblemente podríamos tener más de una
+
+en el caso que nosotros queramos agrupar
+
+tamb también cabeceras Vamos a continuar
+
+ahora con la siguiente etiqueta la cual
+
+es la de T Body y t Body nos sirve para
+
+poder identificar o agrupar todas las
+
+filas que pertenezcan al cuerpo de
+
+nuestra tabla para eso vamos a tomar
+
+todo esto lo vamos a recortar y Aquí
+
+vamos a escribir t Body y dentro de esto
+
+vamos a pegar todo el contenido que
+
+recortamos ahora sí guardamos y nos
+
+vamos a devolver a nuestro explorador
+
+quiero que veamos algo sumamente
+
+importante que es que cuando yo [ __ ]
+
+aquí en refrescar el estilo de mi tabla
+
+y los elementos no ha cambiado esto
+
+solamente sirve para que algunos
+
+exploradores web no todos algunos puedan
+
+habilitar un scroll del contenido
+
+separado de la cabecera que es esto que
+
+tenemos nosotros acá y del pie de
+
+nuestra tabla que todavía no lo hemos
+
+agregado pero ya lo vamos a agregar para
+
+eso Nosotros queremos hacer esta
+
+separación ahora vamos a continuar
+
+agregando nuestra etiqueta de footer y
+
+ahí vamos a agregar también otra fila a
+
+nuestra tabla Vamos a continuar justo
+
+amente después de nuestra etiqueta de T
+
+Body vamos a escribir t fut cerramos
+
+nuestra etiqueta y aquí nosotros vamos a
+
+aprovechar de agregar dos celdas la
+
+primera no va a tener absolutamente nada
+
+y la tercera va a tener el valor de la
+
+suma total de los productos que nosotros
+
+tenemos acá yo no tengo idea cuánto es
+
+esto así que lo voy a sumar y me da que
+
+son
+
+49 d 80 centavos lo voy a pegar acá le
+
+voy a agrego el cero el símbolo de dólar
+
+y guardo Ahora me voy a volver a la
+
+tabla refresco y vemos cómo se ha
+
+agregado una nueva fila que se encuentra
+
+dentro del pie de nuestra tabla
+
+Recuerden que esta Recuerden que a esta
+
+no se le va a activar el scroll por
+
+algunos exploradores no lo soportan todo
+
+en el caso que nuestra tabla esté
+
+utilizando absolutamente todo el alto
+
+ahora lo que sí que no me gustó es que
+
+aparece el total pero no tiene el texto
+
+de total Entonces si es que un usuario
+
+lo ve no se va a dar cuenta que es esto
+
+así es que vamos a devolvernos acá y
+
+vamos a agregar total guardamos no
+
+devolvemos y refrescamos y ahora vemos
+
+que tenemos el texto de total acompañado
+
+también de la suma total de todos los
+
+elementos que se encuentran dentro de
+
+nuestra lista estamos llegando a la
+
+última sección de este curso de html en
+
+esta sección nosotros nos vamos a
+
+dedicar a crear un pequeño blog con html
+
+Y también vamos a conocer un par de
+
+etiquetas más de html vamos a verlo lo
+
+primero que vamos a hacer en este caso
+
+será crear un nuevo archivo el cual se
+
+va a llamar blog. html y nosotros vamos
+
+a continuar trabajando solamente con
+
+este ahora lo que vamos a hacer es
+
+devolvernos a nuestro explorador web y
+
+vamos a cambiar esta parte que dice
+
+Index y la vamos a cambiar por el nombre
+
+de el archivo blog. html Así que yo le
+
+voy a dar clic acá voy a escribir blog
+
+enter y ahora nosotros vemos que tenemos
+
+un nuevo archivo que ha cargado una
+
+nueva página que por supuesto esta se
+
+encuentra en blanco porque no hemos
+
+escrito nada aquí lo que vamos a hacer
+
+es la brujería del signo de exclamación
+
+y presionamos después de eso Tab Y eso
+
+lo que va a hacer es cargar bueno todo
+
+el contenido que nosotros ya habíamos
+
+visto antes y vamos a aprovechar de
+
+eliminar estas etiquetas de meta para
+
+dejar solamente esta estructura base
+
+Ahora sí vamos a eliminar la propiedad
+
+de lang vamos a guardar y aquí es donde
+
+nosotros vamos a empezar a crear nuestro
+
+blog la primera etiqueta que nosotros
+
+vamos a ver es la de header se utiliza
+
+para poder agrupar links también alguna
+
+imagen o logo de nuestra página y lo más
+
+importante nosotros podemos crear tantas
+
+etiquetas de heer como nosotros queramos
+
+siempre y cuando esta cumpla con dos
+
+reglas la primera no podemos colocar una
+
+etiqueta de heer dentro de otra etiqueta
+
+de heer y la segunda no podemos colocar
+
+una etiqueta de heer dentro de una
+
+etiqueta de footer lo que significa que
+
+ahora vamos a pasar a ver nuestra
+
+siguiente etiqueta la cual es la de
+
+footer y footer se utiliza para colocar
+
+el pie de página de nuestra página web
+
+nosotros podemos tener múltiples
+
+etiquetas de footer dentro de nuestra
+
+aplicación y estas Por lo general van a
+
+contener cosas como el copyright de
+
+nuestra aplicación información de
+
+contacto información del sitio o cómo
+
+Navegar dentro del sitio links para
+
+poder volver al comienzo de nuestra
+
+página web y también información
+
+relacionada con aula autor esto por
+
+supuesto que no es una regla escrita en
+
+piedra ustedes pueden colocar lo que que
+
+ustedes quieran dentro de esta etiqueta
+
+de footer pero por lo general se utiliza
+
+para colocar ese tipo de datos y la
+
+siguiente etiqueta que nosotros vamos a
+
+ver se llama section y nosotros la vamos
+
+a colocar justamente entre nuestro
+
+header y nuestro footer Aquí voy a
+
+presionar enter y voy a escribir section
+
+y section como el nombre indica nos
+
+sirve para que nosotros podamos definir
+
+secciones de nuestra aplicación y dentro
+
+de las secciones de nuestra aplicación
+
+nosotros podemos colocar las etiquetas
+
+que nosotros queramos ahora que nosotros
+
+ya hemos dividido nuestro blog en una
+
+parte superior la cabecera sección y
+
+footer vamos a comenzar agregando el
+
+contenido dentro de nuestro header en
+
+este caso voy a traerme yo la el diseño
+
+hermoso y sensual del Blog que habíamos
+
+visto al comienzo del video el cual nos
+
+indica que tiene que contener el nombre
+
+del Blog justamente en esta sección de
+
+acá arriba esta parte va a ser nuestro
+
+header y va a contener el nombre de
+
+nuestro blog ahora voy a llevarme esto y
+
+acá vamos a colocar un h1 y dentro de
+
+esta etiqueta tenemos que colocar el
+
+nombre del Blog Y en este caso va a ser
+
+blog de tu nombre en mi caso va a ser
+
+Chanchito feliz y con eso nosotros ya
+
+hemos terminado la primera sección que
+
+vendría siendo el nombre del Blog ahora
+
+nosotros tenemos que continuar con la
+
+parte que viene que vendría siendo la
+
+sección donde nosotros vamos a colocar
+
+nuestros post que en este caso Nosotros
+
+hemos definido solamente uno pero por
+
+supuesto que vamos a agregar más que
+
+solamente uno vamos a agregar por lo
+
+menos unos tres Para que veamos cómo se
+
+están viendo estos hacia abajo Así es
+
+que nos vamos a devolver Ahora aquí a
+
+nuestra sección y voy a dejarme la
+
+imagen por acá quizás un poco más
+
+pequeña para poder verla mientras
+
+estamos editando el código y voy a
+
+chicar esto también un poco Ahora sí
+
+dentro de la sección nosotros vamos a
+
+ver ahora otra etiqueta la cual se llama
+
+article y article se utiliza para poder
+
+definir contenido completamente
+
+independiente en este caso Funciona muy
+
+bien para poder definir los posts de un
+
+blog donde vamos a poder colocar el
+
+título vamos a poder colocar una
+
+descripción imagen y también un párrafo
+
+que va a contener todo el texto de
+
+nuestro post pero también se puede
+
+utilizar para una historia de noticias
+
+se podría utilizar por ejemplo cuando
+
+nosotros estamos dentro de Facebook para
+
+poder enmarcar una publicación y también
+
+para un tweet en el caso de Twitter o
+
+para una imagen en el caso de Instagram
+
+donde nosotros vamos a tener la imagen
+
+el título de la imagen si que tiene
+
+título una descripción y también los
+
+comentarios para eso nosotros podemos
+
+utilizar la etiqueta de article para
+
+poder identificar cada uno de estos
+
+elementos de manera independiente y aquí
+
+dentro de article vamos a tener que
+
+continuar agregando nuestras etiquetas
+
+en este caso nosotros vamos a continuar
+
+agregando la de título y título para
+
+poder separarlo de nombre del Blog
+
+nombre de Blog vendría siendo un h1 a
+
+esto Nosotros le vamos a colocar un h2 y
+
+dentro de esto le vamos a
+
+colocar título de mi post a continuación
+
+nosotros tenemos que agregar la
+
+descripción para poder agregar la
+
+descripción de esto yo no le voy a
+
+colocar otro H Sencillamente lo voy a
+
+hacer dentro de una etiqueta de P y aquí
+
+voy a colocar
+
+descripción de mi post luego de esto
+
+vamos a necesitar una imagen así es que
+
+vamos a crear una nueva etiqueta que va
+
+a ser la de img Y aquí nosotros tenemos
+
+que indicarle la fuente en este caso yo
+
+voy a utilizar la misma imagen que se
+
+encuentra aquí dentro de mi carpeta de
+
+img Así es que empiezo a escribir img
+
+visual Studio code me ofrece completar
+
+esa parte del código presiono enter y
+
+ahora ahora me ofrece también colocar el
+
+nombre del archivo del archivo del
+
+archivo coffee.png y presiono enter
+
+vamos a asegurarnos de darle un ancho
+
+que sea razonable así es que le vamos a
+
+dar un Wi
+
+de vamos a decir que va a ser 400 vamos
+
+a guardar y ahora vamos a continuar con
+
+el texto del artículo vamos a agregar
+
+otra etiqueta de P y aquí nosotros vamos
+
+a escribir texto del
+
+artículo que hay acá y es texto de
+
+prueba Chanchito
+
+feliz ahora vamos a guardar y vamos a
+
+ver cómo está quedando nuestro post nos
+
+vamos a devolver al explorador vamos a
+
+refrescar y aquí nosotros ya vemos que
+
+tenemos el título de nuestro blog que es
+
+este que aparece acá también tenemos el
+
+título del post tenemos una pequeña
+
+descripción del post tenemos esta imagen
+
+y también tenemos el texto que va a
+
+aparecer justamente debajo del post Esto
+
+está quedando la verdad es que bastante
+
+más ordenado ya tenemos un una
+
+estructura de cómo se va a empezar a ver
+
+nuestro blog Así que vamos a continuar
+
+ahora agregando otro post lo que vamos a
+
+hacer es copiar esta línea de artículo
+
+estas líneas de article perdón y vamos a
+
+pegarlas aquí abajo y Aquí vamos a
+
+colocar título de mi post dos y
+
+descripción de mi post dos y lo que
+
+vamos a hacer es que vamos a aprovechar
+
+de cambiar esta imagen de coffee para
+
+que no se esté repitiendo siempre la
+
+misma imagen así es que lo que voy a
+
+hacer es buscar una nueva imagen y voy a
+
+utilizar esta que también es otra
+
+carátula de Hol beits y sencillamente la
+
+voy a copiar acá lo estoy haciendo aquí
+
+con clic derecho copy y después me voy
+
+acá y le doy un click derecho paste no
+
+me deja serc paste Y dónde tengo paste
+
+no me deja hacer paste a ver pegar no me
+
+deja pegar Así es que me voy a tener que
+
+ir aquí tampoco me deja Okay me
+
+aburriste vamos a arrastrarlo Perfecto
+
+ahí sí funcionó y ahora sí voy a tomar
+
+este archivo y lo voy a meter dentro de
+
+mi carpeta de img y aquí lo que voy a
+
+hacer es cambiarle el nombre este álbum
+
+se llama Isaac Monster Así es que
+
+Sencillamente le vamos a cambiar el
+
+nombre por Monster ahora sí me puedo
+
+devolver a mi archivo de blog. html como
+
+pueden ver aquí también me apareció los
+
+archivos que estoy abriendo los puedo ir
+
+cerrando aquí yo tengo Index html y
+
+también tengo blo html voy a cerrar
+
+Index me devuelvo acá y ahora tengo que
+
+cambiar la referencia a la imagen que ya
+
+no va a ser Coffee en este caso va hacer
+
+Monster Así que escribimos acá Monster
+
+guardamos y me voy a devolver nuevamente
+
+aquí al explorador vamos a refrescar y
+
+vemos ahora cómo tenemos título de mi
+
+post tenemos la descripción del post
+
+finalmente viene la imagen no finalmente
+
+a continuación viene la imagen después
+
+de esto tenemos el texto del artículo
+
+título de post 2 descripción de mi post
+
+y aquí nosotros después tenemos otra
+
+imagen más después de eso tenemos el
+
+texto y con esto nuestra página Ya está
+
+empezando a tomar cada vez más forma
+
+vamos a aprovechar de agregar otro
+
+artículo de post
+
+más y eso lo vamos a hacer Sencillamente
+
+volviendo copiar este
+
+article vamos a colocar título de mi
+
+post 3 descripción de mi post
+
+3 y vamos a hacer lo mismo vamos a
+
+agregar otra imagen así es que voy a
+
+volver a buscar el explorador de
+
+archivos Aquí estás y vamos a utilizar
+
+ahora esta imagen que aparece acá que
+
+esta es una imagen de mi guitarra vamos
+
+a hacer lo mismo la vamos a arrastrar
+
+aquí a la carpeta de img enter y el
+
+nombre va a ser guitarra voy a cerrar
+
+aquí con esta
+
+crucecita me devuelvo aquí a blog. html
+
+y vamos a cambiar nuevamente el nombre
+
+del archivo ahora ya no es monster.png
+
+es
+
+guitarra.png me devuelvo nuevamente al
+
+explorador refresco y hago scroll hacia
+
+abajo y aquí nosotros podemos ver cómo
+
+aparece la imagen de nuestra guitarra
+
+aquí nosotros ya tenemos una estrura
+
+Perfecta de cómo podría ser un blog que
+
+nosotros estemos creando con html esto
+
+por supuesto no está tomando nada
+
+estético no tiene un color de fondo no
+
+tiene sombrado No tiene delineado no
+
+tiene absolutamente nada porque eso
+
+nosotros no debemos hacerlo con html
+
+html solamente se tiene que encargar de
+
+colocar el contenido de una manera que
+
+haga sentido por eso también estas
+
+etiquetas que Nosotros acabamos de ver
+
+que son las de header section article y
+
+también foter que vamos a verla a
+
+continuación son son tan importantes
+
+porque a medida que yo ingreso a esta
+
+página y empiezo a ver todas estas
+
+etiquetas yo ya sé a qué hacen
+
+referencia yo ya sé inmediatamente que
+
+dentro de esta etiqueta de section
+
+existe algo que contiene puede ser
+
+varios artículos o varias etiquetas pero
+
+todo lo que se encuentre dentro de esta
+
+sección tiene que hacer un sentido que
+
+esté agrupado también dentro de la
+
+etiqueta de article Yo sé que existe
+
+algo Como por ejemplo puede ser un post
+
+una noticia como nosotros lo habíamos
+
+comentado antes y esto nos sirve para
+
+que nos nosotros podamos identificar
+
+partes de nuestra página de una manera
+
+más fácil y más intuitiva ahora vamos a
+
+continuar con nuestra etiqueta de footer
+
+y dentro de nuestra etiqueta de footer
+
+vamos a dejar algún correo de contacto
+
+vamos a indicar que vamos a tener un
+
+link tipo
+
+a y vamos a decir que este va a ser mi
+
+correo de
+
+Nicolas
+
+gmail.com y vamos a dejar aquí un
+
+href y aquí les vamos a enseñar un
+
+pequeño truco Dentro de este href vamos
+
+a escribir
+
+mail to do niicolas
+
+gmail.com y ahora vamos a guardar Esto
+
+es lo que va a hacer Es que después
+
+cuando nosotros demos clic sobre ese
+
+link me viene nuevamente acá al
+
+explorador Y refer qué aquí abajo
+
+aparece este link cuando yo lo [ __ ]
+
+fíjense en lo que va a ocurrir me va a
+
+abrir mi cliente de correos para que yo
+
+le pueda enviar inmediatamente un correo
+
+al correo que yo
+
+a enviar por defecto va a ser el que
+
+nosotros coloquemos acá dentro de mail
+
+to de hecho nosotros podemos cambiar
+
+este texto que aparece acá de Nicolas
+
+@gmail y lo voy a cambiar por
+
+contáctame
+
+aquí ahora vamos a guardar y nos vamos a
+
+devolver refresco y como pueden ver
+
+aparece nuevamente aquí el link pero
+
+ahora el texto que dice es contáctame
+
+aquí y ahora si yo lo pincho me abre
+
+nuevamente mi cliente pero me lo Sigue
+
+enviando al correo de Nicolás
+
+@gmail.com vamos a aprovechar también de
+
+agregar otra etiqueta dentro de nuestro
+
+footer justamente después de nuestro
+
+link y vamos a agregar un p que va a
+
+decir copyright 2021 guardamos nos
+
+devolvemos refrescamos y vemos ahora
+
+cómo aparece también esto dentro de
+
+nuestra página web y de esta manera
+
+Nosotros acabamos de construir un blog
+
+la verdad es que bastante rápido
+
+nosotros logramos distribuir todo el
+
+contenido que nosotros queríamos esto
+
+por supuesto está feo hay que agregarle
+
+un estilo Pero eso nosotros lo vamos a
+
+ver cuando veamos css existe una
+
+etiqueta dentro de html que si es que
+
+ustedes ya tienen un poco de experiencia
+
+con html lo más probable es que la hayan
+
+visto antes y si es que no tienen
+
+experiencia con html lo más probable es
+
+que la empiecen a ver mucho de ahora en
+
+adelante la cual es la etiqueta de div
+
+vamos a verla vamos a devolvernos aquí a
+
+nuestro editor y justamente aquí antes
+
+de nuestra sección justamente entre
+
+medio de nuestro header y nuestra
+
+sección vamos a presionar enter y aquí
+
+vamos a escribir lo siguiente div y
+
+dentro de div nosotros vamos a crear por
+
+ejemplo una etiqueta de p que va a decir
+
+soy un párrafo dentro de un div y vamos
+
+a ver cómo se muestra esto nos vamos a
+
+devolver a nuestra explorador
+
+refrescamos y nos vamos arriba aquí nos
+
+está mostrando el texto de soy un
+
+párrafo dentro de un div como pueden ver
+
+div básicamente no cambia Cómo se va a
+
+mostrar el contenido lo único que hace
+
+es contenerlo y y div tiene la misma
+
+funcionalidad que la etiqueta de section
+
+Finalmente se utiliza para poder dividir
+
+nuestro contenido y también se utiliza
+
+para poder agruparlo en secciones div
+
+era una etiqueta muy utilizada antes que
+
+salieran las nuevas etiquetas de section
+
+y article por lo general antes o si
+
+empiezas a ver bases de código más
+
+viejas te vas a dar cuenta que vas a
+
+tener muchas etiquetas de div y también
+
+cosas que vas a empezar a ver con esta
+
+misma etiqueta de div es que vas a tener
+
+una etiqueta de div dentro de esa vas a
+
+tener otra etiqueta de div y dentro de
+
+esa vas a tener otra etiqueta de div y
+
+no es raro encontrarse con esto ahora
+
+cosas que son malas que tú podrías
+
+eventualmente ver cuando estás
+
+trabajando con html es que tengas algún
+
+párrafo Como por ejemplo este que
+
+aparece acá lo vamos a recortar y que se
+
+encuentre dentro de varias etiquetas de
+
+div Como por ejemplo Aquí vamos a
+
+guardar en este caso nosotros tenemos
+
+una etiqueta de div dentro de una
+
+etiqueta de div aquí tenemos la etiqueta
+
+de div dentro de una etiqueta de div
+
+dentro de otra etiqueta de div y lo que
+
+estamos haciendo aquí es generar sección
+
+dentro de una sección dentro de una
+
+sección y bien al final de todas las
+
+secciones nosotros vamos a colocar un p
+
+Este es un error bastante común y lo que
+
+hace es que empieza a agregar más
+
+complejidad al código de html que
+
+nosotros estamos escribiendo ahora si
+
+nosotros nos devolvemos al explorador y
+
+refrescamos vamos a ver que se ve
+
+Exactamente igual por lo que el
+
+comportamiento no va a cambiar para el
+
+usuario finalo Pero lo que sí va a hacer
+
+Es que para nosotros como
+
+desarrolladores nos va a empezar a
+
+complicar poco a poco la existencia
+
+debido a que esto no es necesario y
+
+sencillamente lo único que estamos
+
+haciendo es agregar más código por
+
+agregar más código Así es que esa
+
+práctica nosotros la vamos a evitar y lo
+
+que vamos a hacer es que si encontramos
+
+divs que se encuentran anidados y estos
+
+no tienen ninguna clase o tampoco tienen
+
+un ID que ya los vamos a ver en ese caso
+
+lo mejor es que nosotros los eliminemos
+
+y dejemos solamente uno voy a guardar me
+
+de vuelvo el explorador refresco y vemos
+
+cómo sigue funcionando el párrafo sin
+
+ningún cambio van a existir momentos
+
+donde nosotros vamos a querer darle un
+
+identificador único o genérico a
+
+nuestras etiquetas de html y esto por lo
+
+general va a ser para que podamos
+
+interactuar con ellos ya sea mediante
+
+javascript o para poder asignarle algún
+
+estilo para que este cambie la forma en
+
+comoo se ve vamos a ver inmediatamente
+
+esas propiedades nos vamos a devolver
+
+aquí a nuestro editor de texto y lo que
+
+vamos a hacer es asignarle este
+
+identificador único a nuestro título que
+
+en este caso es este dh1 vamos a
+
+presionar el espacio vamos a escribir ID
+
+igual comillas dobles y aquí le voy a
+
+colocar el texto de
+
+título esto no va a cambiar en lo
+
+absoluto el comportamiento de nuestro
+
+elemento si es que yo vengo acá y
+
+refresco vamos a ver que sigue
+
+Exactamente igual si es que yo hago clic
+
+derecho y me voy a inspeccionar el
+
+elemento cuando veamos qué es lo que nos
+
+está mostrando aquí en el html vamos a
+
+ver que tenemos nuestro h1 y que este
+
+también contiene un atributo el cual se
+
+llama ID y su valor es el de
+
+título todos estos parámetros que
+
+nosotros hemos estado pasando a las
+
+etiquetas se conocen con el nombre de
+
+atributo Y estos nos van a servir para
+
+que nosotros podamos interactuar con
+
+estos elementos ya sea mediante
+
+javascript o para poder asignarle un
+
+estilo y es sumamente importante que
+
+nosotros estos atributos
+
+el del ID lo coloquemos Solamente una
+
+vez yo no puedo hacer y no Debo hacerlo
+
+porque es una mala práctica y
+
+sencillamente nos va a empezar a
+
+producir errores No puedo llegar y
+
+copiar este ID y asignárseles di que se
+
+encuentra acá abajo eso no está bien eso
+
+está sumamente mal si nosotros
+
+quisiéramos hacer eso de poder asignarle
+
+un identificador a más de un elemento y
+
+quiero utilizar exactamente el mismo
+
+texto para poder identificarlo en ese
+
+caso no debo utilizar el atributo de ID
+
+debo utilizar el atributo de
+
+class y de esta manera yo puedo
+
+seleccionar más de un elemento ya sea
+
+con javascript o con css vamos a
+
+devolver este atributo a ID y vamos a
+
+dejar este div con el atributo de class
+
+pero que también va a ser título en este
+
+caso Nosotros también podemos hacer esto
+
+podemos tener un identificador único el
+
+cual va a ser el de título y podemos
+
+tener una Class cuyo valor también va a
+
+ser título Pero esto la verdad es que
+
+tampoco Debi esem hacerlo porque podría
+
+prestar para confusiones lo mejor es que
+
+en este caso nosotros utilicemos nombres
+
+distintos voy a quitar esta clase de acá
+
+y voy a colocar una clase donde haga más
+
+sentido colocarla como les había dicho
+
+las clases en este caso la palabra de
+
+clas El atributo de class se utiliza
+
+para poder identificar más de un
+
+elemento que yo potencialmente puedo
+
+seleccionar con css o con javascript y
+
+qué mejor lugar para colocar un atributo
+
+de class que dentro de nuestros
+
+artículos aquí en este article voy a
+
+escribir el atributo de class y este va
+
+a ser igual a Adivinen qué no no es
+
+Chanchito feliz Aquí vamos a escribir
+
+post y luego de esto voy a bajar al
+
+siguiente y voy a volver a agregar la
+
+clase de post y voy a hacer exactamente
+
+lo mismo con el siguiente artículo y le
+
+voy a agregar la clase de post estos
+
+atributos nos sirven para que después
+
+con css o con javascript utilizando los
+
+selectores podamos seleccionar estos
+
+elementos finalmente estos atributos nos
+
+sirven para poder identificar los
+
+elementos que luego pueden ser
+
+seleccionados con selectores Vamos a
+
+continuar ahora con una funcionalidad
+
+que tiene nuestra etiqueta de anchor tag
+
+o la etiqueta de a que nosotros no
+
+habíamos visto antes porque no habíamos
+
+visto el atributo de ID vamos a verlo
+
+aquí como pueden ver nosotros tenemos
+
+nuestro h1 el cual contiene un atributo
+
+de ID el cual es igual a título Pero qué
+
+me dirían ustedes si yo les digo que con
+
+un link podemos nosotros llevar al
+
+usuario exactamente a esta etiqueta
+
+vamos a ver cómo podemos hacer eso nos
+
+vamos a ir justamente aquí al final y
+
+antes de nuestra etiqueta de anchor tag
+
+esta misma donde nosotros estamos
+
+enviándonos nuestro correo antes vamos a
+
+presionar enter justamente en la
+
+etiqueta de footer y Aquí vamos a
+
+escribir lo siguiente vamos a escribir a
+
+espacio href igual y aquí nosotros en
+
+lugar de colocar un link o colocar un
+
+mail to vamos a escribir el símbolo de
+
+numeral y aquí nosotros podemos hacer un
+
+pequeño truco podemos indicarle el ID no
+
+la clase no el atributo de clase podemos
+
+indicar un atributo de ID para que
+
+nuestra página vaya a esa sección sin
+
+necesidad de que esta se refresque Así
+
+que lo que voy a hacer acá es escribir
+
+título vamos a cerrar y ahora lo que
+
+vamos a hacer es colocar un texto que
+
+indique Hacia dónde nosotros nos vamos a
+
+ir y voy a indicar acá ir al título o ir
+
+arriba mejor colocamos ir arriba al
+
+comienzo Ahora sí me voy a devolver al
+
+explorador voy a refrescar y voy a bajar
+
+al final aquí como podemos ver tenemos
+
+este link de ir al comienzo Y tenemos
+
+contáctame voy a pinchar acá y fíjense
+
+en qué es lo que va a ocurrir y me llevó
+
+al comienzo de mi página web de esta
+
+manera nosotros podemos hacer
+
+referencias como para que el usuario
+
+salte de un lugar de nuestra página web
+
+a otra pero dentro de la misma página
+
+cosa para que él no tenga que hacer el
+
+scroll hacia abajo o no tenga que hacer
+
+scroll hacia arriba nosotros
+
+Sencillamente le damos un link para que
+
+él lo [ __ ] y él después llega a la
+
+sección que nosotros le indicamos que
+
+queramos que este llegue y llegamos al
+
+cierre de nuestro curso chicos quiero
+
+felicitarlos por haber llegado acá hasta
+
+el final html es una herramienta
+
+fundamental que debes aprender si
+
+quieres transformarte en desarrollador
+
+web o incluso si quieres hacer
+
+aplicaciones móviles con tecnologías
+
+híbridas Espero que les haya gustado
+
+mucho este curso si te gustó recuerda
+
+golpear al maldito del botón de me gusta
+
+y también compartirlo si deseas apoyar
+
+al Canal puedes hacerlo adquiriendo
+
+alguno de los cursos que te voy a dejar
+
+en la descripción de este video o
+
+también en mi página web también puedes
+
+apoyar a este canal escuchando Hola bits
+
+cuando te encuentres trabajando o
+
+estudiando y esto ha sido todo por hoy
+
+hasta la próxima y chao
+
+[Música]
+
+[Música]
+
+mundo i
+
+
